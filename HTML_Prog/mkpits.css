@@ -1,0 +1,15 @@
+.main{
+	background-image:url('coding.jpg');
+	color:white;
+	margin:23px 45px 50px 51px;
+	padding:88px 10px 98px 11px;
+}
+.main h1{
+	margin:57px 19px 0px 48px;
+	font-family:"Poppins", sans-serif;
+}
+
+.main p{
+	margin: 3px 6px 1px 51px;
+        font-family:"Raleway", sans-serif;
+}
