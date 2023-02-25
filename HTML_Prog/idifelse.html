@@ -1,0 +1,24 @@
+<html>
+<script language="javascript">
+function show()
+{
+var num1,num2;
+num1=document.getElementById("n1").value;
+num2=document.getElementById("n2").value;
+if(num1>num2)
+{
+document.getElementById("out").innerHTML="Greater number is "+num1+" than "+num2;
+}
+else
+{
+document.getElementById("out").innerHTML="Greater number is "+num2+" than "+num1;
+}
+}
+</script>
+<body>
+num1 :<input type="number" id="n1"><br>
+num2 :<input type="number" id="n2"><br>
+<input type="button" value="Show Greater Number" onclick="show();"><br><br>
+<span id="out"></span><br>
+</body>
+</html>

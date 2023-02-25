@@ -1,0 +1,37 @@
+<html>
+<script language="javascript">
+
+function result()
+{
+var s1,s2,s3,t,per,grade;
+s1=parseInt(document.getElementById("b1").value);
+s2=parseInt(document.getElementById("b2").value);
+s3=parseInt(document.getElementById("b3").value);
+t=s1+s2+s3;
+per=(t/300)*100;
+document.getElementById("out").innerHTML="Total ="+t;
+document.getElementById("out1").innerHTML="Percentage ="+per;
+if(per>=75)
+{
+document.getElementById("out3").innerHTML="grade =Distinction";
+}
+else if(per<75 && per>65)
+{
+document.getElementById("out3").innerHTML="grade =Class 1";
+}
+else
+{
+document.getElementById("out3").innerHTML="grade =FAIL";
+}
+}
+</script>
+<body>
+Maths :<input type="number" id="b1"><br><br>
+Chemistry :<input type="number" id="b2"><br><br>
+Physics :<input type="number" id="b3"><br><br>
+<input type="button" value="Result" onclick="result();"><br><br>
+<span id="out"></span><br>
+<span id="out1"></span><br>
+<span id="out3"><span><br>
+</body>
+</html>
