@@ -1,0 +1,27 @@
+<html>
+<script>
+function cheak()
+{
+var n1,s1,e1;
+n1=document.getElementById("num1").value;
+s1=document.getElementById("r1").value;
+e1=document.getElementById("r2").value;
+
+if(n1>=s1 && n1<=e1)
+{
+alert(n1+" Number is in Range");
+}
+else
+{
+alert(n1+" Number is not in Range");
+}
+}
+
+</script>
+<body>
+Number :<input type="number" id="num1"><br>
+start Range :<input type="number" id="r1"><br>
+End Range :<input type="number" id="r2"><br>
+<input type="button" value="cheak" onclick="cheak();">
+</body>
+</html>

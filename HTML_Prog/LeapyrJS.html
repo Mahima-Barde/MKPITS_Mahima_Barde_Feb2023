@@ -1,0 +1,21 @@
+<html>
+<script>
+function Leapyr()
+{
+var num;
+num=document.getElementById("n1").value;
+if((num%4==0) && (num%100!=0) || (num%400==0))
+{
+alert(num +" Year is Leap year");
+}
+else
+{
+alert(num+" year is not leap year");
+}
+}
+
+</script>
+<body>
+Enter the Year :<input type="text" id="n1"><br><br>
+<input type="button" value="Leap year/not leap year" onclick="Leapyr();">
+</body>

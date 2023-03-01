@@ -1,0 +1,29 @@
+<html>
+<script>
+var num,result;
+ function Scase()
+{
+num=parseInt(prompt("Enter the number"));
+switch(num)
+{
+case 1:
+result="One";
+break;
+case 2:
+result="Two";
+break;
+case 3:
+result="Three";
+break;
+default :
+result=num+"Number is other number";
+break;
+}
+document.getElementById("out").innerHTML="The  number is "+ result;
+}
+</script>
+<body>
+Enter the number :<input type="text" id="n1"><br>
+<input type="button" value="submit" onclick="Scase();"><br>
+<span id="out"></span>
+</html>
