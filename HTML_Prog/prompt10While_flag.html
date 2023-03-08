@@ -1,0 +1,24 @@
+<html>
+<script>
+function show()
+{
+  var i=prompt("Enter the number");
+   flag=0;
+   while(flag==0)
+  {
+  if(i<=10)
+    {
+     alert(i);
+    }
+  else
+    {
+     flag=1;
+     alert("The number is greater than 10 is "+i);
+    }
+  }
+}
+</script>
+<body>
+Enter the number<input type="text" id="n1"><br>
+<input type="button" value="cheak" onclick="show();">
+</script>

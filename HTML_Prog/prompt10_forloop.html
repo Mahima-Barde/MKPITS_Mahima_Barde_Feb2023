@@ -1,0 +1,18 @@
+<html>
+<script>
+function show()
+{
+var j=document.getElementById("n1").value;
+for(i=j;i<=10;i++)
+{
+var j=prompt("Enter the Number");
+}
+document.getElementById("n2").innerHTML="The number greater than 10 "+j;
+}
+</script>
+<body>
+Enter the Number<input type="text" id="n1"><br>
+<input type="button" value="submit" onclick="show();" ><br>
+<span id="n2"></span>
+</body>
+</html>
