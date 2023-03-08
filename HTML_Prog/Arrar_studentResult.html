@@ -1,0 +1,23 @@
+<html>
+<script>
+function calcu()
+{
+var marks=new Array();
+marks[0]=parseInt(document.getElementById("n1").value);
+marks[1]=parseInt(document.getElementById("n2").value);
+marks[2]=parseInt(document.getElementById("n3").value);
+var obtain=marks[0]+marks[1]+marks[2];
+var per=parseFloat(obtain/300)*100;
+document.getElementById("res1").innerHTML="Total ="+obtain;
+document.getElementById("res2").innerHTML="percentage ="+per;
+}
+</script>
+<body>
+Subject 1:<input type="text" id="n1"><br>
+SUbject 2:<input type="text" id="n2"><br>
+Subject 3:<input type="text" id="n3"><br>
+<input type="button" value="result" onclick="calcu();"><br>
+<span id="res1"></span><br>
+<span id="res2"></span>
+</body>
+</html>

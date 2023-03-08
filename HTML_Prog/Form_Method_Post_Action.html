@@ -1,0 +1,31 @@
+<script>
+function Info()
+{
+var user=document.getElementById("n1").value;
+var Password=document.getElementById("n2").value;
+if(user=="" || Password=="")
+{
+document.getElementById("b1").innerHTML="Enter user name and Password";
+return false;
+}
+else if (Password<6)
+{
+document.getElementById("b1").innerHTML="Password must be of 6 character";
+return false;
+}
+}
+</script>
+<body>
+<style>
+#color
+{
+color:red
+}
+</style>
+<form method=post action="Array_Sort.html" onsubmit="return Info();">
+User:<span id="color">*</span><input type="text" id="n1"><br>
+Password:<span id="color">*</span><input type="password" id="n2"><br>
+<input type="submit" value="Submit"><br>
+<span id="b1"></span>
+</form>
+</body>
