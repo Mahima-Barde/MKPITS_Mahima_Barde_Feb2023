@@ -1,0 +1,21 @@
+<!--Create a program that converts a temperature from Celsius to Fahrenheit.-->
+<html>
+<script>
+function converintofahreheit()
+{
+var num;
+num=document.getElementById("n1").value;
+var far=num*(9/5)+32;
+document.getElementById("s1").innerHTML="Conversion of Celsius to Fahrenheit = "+far;
+}
+
+</script>
+<body>
+<h1>Conversion of Celsius to Fahrenheit</h1>
+<hr>
+Enter the number :<input type="text" id="n1">
+<br>
+<input type="button" value="Check" onclick="converintofahreheit();"><br><br>
+<span id="s1"></span>
+</body>
+</html>
