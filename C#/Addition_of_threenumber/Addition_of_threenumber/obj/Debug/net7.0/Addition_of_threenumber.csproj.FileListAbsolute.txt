@@ -1,0 +1,15 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\bin\Debug\net7.0\Addition_of_threenumber.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\bin\Debug\net7.0\Addition_of_threenumber.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\bin\Debug\net7.0\Addition_of_threenumber.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\bin\Debug\net7.0\Addition_of_threenumber.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\bin\Debug\net7.0\Addition_of_threenumber.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\Addition_of_threenumber.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\Addition_of_threenumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\Addition_of_threenumber.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\Addition_of_threenumber.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\Addition_of_threenumber.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\Addition_of_threenumber.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\refint\Addition_of_threenumber.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\Addition_of_threenumber.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\Addition_of_threenumber.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Addition_of_threenumber\Addition_of_threenumber\obj\Debug\net7.0\ref\Addition_of_threenumber.dll

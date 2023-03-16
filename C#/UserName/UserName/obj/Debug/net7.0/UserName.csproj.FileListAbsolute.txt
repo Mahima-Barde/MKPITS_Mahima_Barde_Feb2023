@@ -1,0 +1,15 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\UserName.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\UserName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\UserName.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\UserName.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\UserName.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\bin\Debug\net7.0\UserName.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\bin\Debug\net7.0\UserName.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\bin\Debug\net7.0\UserName.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\bin\Debug\net7.0\UserName.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\bin\Debug\net7.0\UserName.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\UserName.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\refint\UserName.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\UserName.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\UserName.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\UserName\UserName\obj\Debug\net7.0\ref\UserName.dll

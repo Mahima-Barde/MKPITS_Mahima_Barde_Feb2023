@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace Username
+{
+	class Username
+	{
+      static void Main()
+		{
+			string name;
+            Console.WriteLine("please enter your name dear");
+			name = console.ReadLine();
+			Console.WriteLine("Heello Mr/Miss " + name);
+			Console.ReadKey();
+		}
+	}
+}

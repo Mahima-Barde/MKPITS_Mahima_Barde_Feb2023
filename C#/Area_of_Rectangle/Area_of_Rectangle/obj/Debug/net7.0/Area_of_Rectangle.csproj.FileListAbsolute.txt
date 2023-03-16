@@ -1,0 +1,15 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\net7.0\Area_of_Rectangle.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\net7.0\Area_of_Rectangle.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\net7.0\Area_of_Rectangle.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\net7.0\Area_of_Rectangle.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\net7.0\Area_of_Rectangle.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\Area_of_Rectangle.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\Area_of_Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\Area_of_Rectangle.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\Area_of_Rectangle.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\Area_of_Rectangle.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\Area_of_Rectangle.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\refint\Area_of_Rectangle.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\Area_of_Rectangle.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\Area_of_Rectangle.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\net7.0\ref\Area_of_Rectangle.dll

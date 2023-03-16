@@ -1,0 +1,15 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\bin\Debug\net7.0\HelloProgram.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\bin\Debug\net7.0\HelloProgram.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\bin\Debug\net7.0\HelloProgram.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\bin\Debug\net7.0\HelloProgram.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\bin\Debug\net7.0\HelloProgram.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\HelloProgram.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\HelloProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\HelloProgram.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\HelloProgram.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\HelloProgram.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\HelloProgram.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\refint\HelloProgram.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\HelloProgram.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\HelloProgram.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\HelloProgram\HelloProgram\obj\Debug\net7.0\ref\HelloProgram.dll

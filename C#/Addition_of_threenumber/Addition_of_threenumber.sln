@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition_of_threenumber", "Addition_of_threenumber\Addition_of_threenumber.csproj", "{23B7E046-0EC6-4B18-9711-295C5F67339A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B7E046-0EC6-4B18-9711-295C5F67339A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B7E046-0EC6-4B18-9711-295C5F67339A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B7E046-0EC6-4B18-9711-295C5F67339A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B7E046-0EC6-4B18-9711-295C5F67339A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA86AFC1-A2A7-4CCB-AE8B-16E811873CEF}
+	EndGlobalSection
+EndGlobal
