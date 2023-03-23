@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_Value\Double_Value\bin\Debug\Double_Value.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_Value\Double_Value\bin\Debug\Double_Value.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_Value\Double_Value\bin\Debug\Double_Value.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_Value\Double_Value\obj\Debug\Double_Value.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_Value\Double_Value\obj\Debug\Double_Value.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_Value\Double_Value\obj\Debug\Double_Value.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_Value\Double_Value\obj\Debug\Double_Value.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_Value\Double_Value\obj\Debug\Double_Value.pdb

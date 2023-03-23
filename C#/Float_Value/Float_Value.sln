@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Float_Value", "Float_Value\Float_Value.csproj", "{488999F8-BEB5-436E-A01D-FBACE461AD6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488999F8-BEB5-436E-A01D-FBACE461AD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488999F8-BEB5-436E-A01D-FBACE461AD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488999F8-BEB5-436E-A01D-FBACE461AD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488999F8-BEB5-436E-A01D-FBACE461AD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5832210F-7341-4686-B6F6-D3BA89B74CAD}
+	EndGlobalSection
+EndGlobal

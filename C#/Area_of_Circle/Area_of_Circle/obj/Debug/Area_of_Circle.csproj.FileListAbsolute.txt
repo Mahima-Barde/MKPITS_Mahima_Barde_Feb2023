@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Circle\Area_of_Circle\bin\Debug\Area_of_Circle.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Circle\Area_of_Circle\bin\Debug\Area_of_Circle.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Circle\Area_of_Circle\bin\Debug\Area_of_Circle.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Circle\Area_of_Circle\obj\Debug\Area_of_Circle.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Circle\Area_of_Circle\obj\Debug\Area_of_Circle.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Circle\Area_of_Circle\obj\Debug\Area_of_Circle.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Circle\Area_of_Circle\obj\Debug\Area_of_Circle.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Area_of_Circle\Area_of_Circle\obj\Debug\Area_of_Circle.pdb

@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Prime_number\Method_Prime_number\bin\Debug\Method_Prime_number.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Prime_number\Method_Prime_number\bin\Debug\Method_Prime_number.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Prime_number\Method_Prime_number\bin\Debug\Method_Prime_number.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Prime_number\Method_Prime_number\obj\Debug\Method_Prime_number.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Prime_number\Method_Prime_number\obj\Debug\Method_Prime_number.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Prime_number\Method_Prime_number\obj\Debug\Method_Prime_number.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Prime_number\Method_Prime_number\obj\Debug\Method_Prime_number.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Prime_number\Method_Prime_number\obj\Debug\Method_Prime_number.pdb

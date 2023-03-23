@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Total_per_Grade\Method_Total_per_Grade\obj\Debug\Method_Total_per_Grade.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Total_per_Grade\Method_Total_per_Grade\obj\Debug\Method_Total_per_Grade.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Total_per_Grade\Method_Total_per_Grade\obj\Debug\Method_Total_per_Grade.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Total_per_Grade\Method_Total_per_Grade\bin\Debug\Method_Total_per_Grade.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Total_per_Grade\Method_Total_per_Grade\bin\Debug\Method_Total_per_Grade.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Total_per_Grade\Method_Total_per_Grade\bin\Debug\Method_Total_per_Grade.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Total_per_Grade\Method_Total_per_Grade\obj\Debug\Method_Total_per_Grade.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Total_per_Grade\Method_Total_per_Grade\obj\Debug\Method_Total_per_Grade.pdb

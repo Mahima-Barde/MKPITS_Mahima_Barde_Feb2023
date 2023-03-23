@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Factorial\Method_Factorial\bin\Debug\Method_Factorial.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Factorial\Method_Factorial\bin\Debug\Method_Factorial.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Factorial\Method_Factorial\bin\Debug\Method_Factorial.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Factorial\Method_Factorial\obj\Debug\Method_Factorial.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Factorial\Method_Factorial\obj\Debug\Method_Factorial.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Factorial\Method_Factorial\obj\Debug\Method_Factorial.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Factorial\Method_Factorial\obj\Debug\Method_Factorial.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Factorial\Method_Factorial\obj\Debug\Method_Factorial.pdb
