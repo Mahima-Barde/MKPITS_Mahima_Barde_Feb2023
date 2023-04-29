@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deposite_Withdrawal_Amount", "Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount.csproj", "{EC01900F-06C4-489F-99B5-3DA00D50A61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC01900F-06C4-489F-99B5-3DA00D50A61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC01900F-06C4-489F-99B5-3DA00D50A61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC01900F-06C4-489F-99B5-3DA00D50A61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC01900F-06C4-489F-99B5-3DA00D50A61F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8283459B-A36B-488F-AF49-D487BC0CBF04}
+	EndGlobalSection
+EndGlobal

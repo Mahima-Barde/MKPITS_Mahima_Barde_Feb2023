@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Return_integer_portion\Return_integer_portion\bin\Debug\Return_integer_portion.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Return_integer_portion\Return_integer_portion\bin\Debug\Return_integer_portion.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Return_integer_portion\Return_integer_portion\bin\Debug\Return_integer_portion.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Return_integer_portion\Return_integer_portion\obj\Debug\Return_integer_portion.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Return_integer_portion\Return_integer_portion\obj\Debug\Return_integer_portion.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Return_integer_portion\Return_integer_portion\obj\Debug\Return_integer_portion.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Return_integer_portion\Return_integer_portion\obj\Debug\Return_integer_portion.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Return_integer_portion\Return_integer_portion\obj\Debug\Return_integer_portion.pdb

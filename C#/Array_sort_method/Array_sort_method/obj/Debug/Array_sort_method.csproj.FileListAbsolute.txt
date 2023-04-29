@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_sort_method\Array_sort_method\bin\Debug\Array_sort_method.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_sort_method\Array_sort_method\bin\Debug\Array_sort_method.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_sort_method\Array_sort_method\bin\Debug\Array_sort_method.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_sort_method\Array_sort_method\obj\Debug\Array_sort_method.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_sort_method\Array_sort_method\obj\Debug\Array_sort_method.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_sort_method\Array_sort_method\obj\Debug\Array_sort_method.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_sort_method\Array_sort_method\obj\Debug\Array_sort_method.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_sort_method\Array_sort_method\obj\Debug\Array_sort_method.pdb

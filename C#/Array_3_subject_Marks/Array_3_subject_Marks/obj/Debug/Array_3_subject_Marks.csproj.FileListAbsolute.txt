@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_3_subject_Marks\Array_3_subject_Marks\bin\Debug\Array_3_subject_Marks.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_3_subject_Marks\Array_3_subject_Marks\bin\Debug\Array_3_subject_Marks.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_3_subject_Marks\Array_3_subject_Marks\bin\Debug\Array_3_subject_Marks.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_3_subject_Marks\Array_3_subject_Marks\obj\Debug\Array_3_subject_Marks.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_3_subject_Marks\Array_3_subject_Marks\obj\Debug\Array_3_subject_Marks.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_3_subject_Marks\Array_3_subject_Marks\obj\Debug\Array_3_subject_Marks.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_3_subject_Marks\Array_3_subject_Marks\obj\Debug\Array_3_subject_Marks.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_3_subject_Marks\Array_3_subject_Marks\obj\Debug\Array_3_subject_Marks.pdb

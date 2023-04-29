@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "student having fields and methods", "student having fields and methods\student having fields and methods.csproj", "{82D391EE-1797-4EE5-9C2D-2F3776727D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D391EE-1797-4EE5-9C2D-2F3776727D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D391EE-1797-4EE5-9C2D-2F3776727D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D391EE-1797-4EE5-9C2D-2F3776727D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D391EE-1797-4EE5-9C2D-2F3776727D83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3591DAEF-5907-415A-80AB-D25EA1AF9370}
+	EndGlobalSection
+EndGlobal

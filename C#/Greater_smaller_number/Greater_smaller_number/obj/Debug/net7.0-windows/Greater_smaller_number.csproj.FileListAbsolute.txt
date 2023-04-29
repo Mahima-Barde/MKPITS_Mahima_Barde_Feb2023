@@ -1,0 +1,17 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\bin\Debug\net7.0-windows\Greater_smaller_number.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\bin\Debug\net7.0-windows\Greater_smaller_number.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\bin\Debug\net7.0-windows\Greater_smaller_number.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\bin\Debug\net7.0-windows\Greater_smaller_number.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\bin\Debug\net7.0-windows\Greater_smaller_number.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.Form1.resources
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.csproj.GenerateResource.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\refint\Greater_smaller_number.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\Greater_smaller_number.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Greater_smaller_number\Greater_smaller_number\obj\Debug\net7.0-windows\ref\Greater_smaller_number.dll

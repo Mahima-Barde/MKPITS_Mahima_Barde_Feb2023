@@ -1,0 +1,17 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\bin\Debug\net7.0-windows\Deposite_Withdrawal_Amount.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\bin\Debug\net7.0-windows\Deposite_Withdrawal_Amount.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\bin\Debug\net7.0-windows\Deposite_Withdrawal_Amount.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\bin\Debug\net7.0-windows\Deposite_Withdrawal_Amount.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\bin\Debug\net7.0-windows\Deposite_Withdrawal_Amount.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.Form1.resources
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.csproj.GenerateResource.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\refint\Deposite_Withdrawal_Amount.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\Deposite_Withdrawal_Amount.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Deposite_Withdrawal_Amount\Deposite_Withdrawal_Amount\obj\Debug\net7.0-windows\ref\Deposite_Withdrawal_Amount.dll

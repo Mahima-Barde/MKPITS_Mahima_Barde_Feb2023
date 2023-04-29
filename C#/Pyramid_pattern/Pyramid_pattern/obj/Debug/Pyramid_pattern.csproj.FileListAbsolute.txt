@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Pyramid_pattern\Pyramid_pattern\bin\Debug\Pyramid_pattern.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Pyramid_pattern\Pyramid_pattern\bin\Debug\Pyramid_pattern.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Pyramid_pattern\Pyramid_pattern\bin\Debug\Pyramid_pattern.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Pyramid_pattern\Pyramid_pattern\obj\Debug\Pyramid_pattern.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Pyramid_pattern\Pyramid_pattern\obj\Debug\Pyramid_pattern.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Pyramid_pattern\Pyramid_pattern\obj\Debug\Pyramid_pattern.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Pyramid_pattern\Pyramid_pattern\obj\Debug\Pyramid_pattern.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Pyramid_pattern\Pyramid_pattern\obj\Debug\Pyramid_pattern.pdb

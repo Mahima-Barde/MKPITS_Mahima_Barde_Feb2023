@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Anagram_or_not\Anagram_or_not\bin\Debug\Anagram_or_not.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Anagram_or_not\Anagram_or_not\bin\Debug\Anagram_or_not.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Anagram_or_not\Anagram_or_not\bin\Debug\Anagram_or_not.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Anagram_or_not\Anagram_or_not\obj\Debug\Anagram_or_not.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Anagram_or_not\Anagram_or_not\obj\Debug\Anagram_or_not.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Anagram_or_not\Anagram_or_not\obj\Debug\Anagram_or_not.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Anagram_or_not\Anagram_or_not\obj\Debug\Anagram_or_not.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Anagram_or_not\Anagram_or_not\obj\Debug\Anagram_or_not.pdb

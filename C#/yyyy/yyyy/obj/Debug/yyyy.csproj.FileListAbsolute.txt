@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\yyyy\yyyy\bin\Debug\yyyy.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\yyyy\yyyy\bin\Debug\yyyy.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\yyyy\yyyy\bin\Debug\yyyy.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\yyyy\yyyy\obj\Debug\yyyy.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\yyyy\yyyy\obj\Debug\yyyy.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\yyyy\yyyy\obj\Debug\yyyy.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\yyyy\yyyy\obj\Debug\yyyy.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\yyyy\yyyy\obj\Debug\yyyy.pdb

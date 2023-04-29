@@ -1,0 +1,17 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t-p-g.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t_p_g.Form1.resources
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t-p-g.csproj.GenerateResource.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t-p-g.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t-p-g.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t-p-g.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t-p-g.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\bin\Debug\net7.0-windows\Display_result_t-p-g.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\bin\Debug\net7.0-windows\Display_result_t-p-g.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\bin\Debug\net7.0-windows\Display_result_t-p-g.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\bin\Debug\net7.0-windows\Display_result_t-p-g.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\bin\Debug\net7.0-windows\Display_result_t-p-g.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t-p-g.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\refint\Display_result_t-p-g.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t-p-g.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\Display_result_t-p-g.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Display_result_t-p-g\Display_result_t-p-g\obj\Debug\net7.0-windows\ref\Display_result_t-p-g.dll

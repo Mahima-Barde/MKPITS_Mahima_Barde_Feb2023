@@ -1,0 +1,17 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\bin\Debug\net7.0-windows\calculator_form.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\bin\Debug\net7.0-windows\calculator_form.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\bin\Debug\net7.0-windows\calculator_form.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\bin\Debug\net7.0-windows\calculator_form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\bin\Debug\net7.0-windows\calculator_form.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.Form1.resources
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.csproj.GenerateResource.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\refint\calculator_form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\calculator_form.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\calculator_form\calculator_form\obj\Debug\net7.0-windows\ref\calculator_form.dll

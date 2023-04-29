@@ -1,0 +1,17 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\bin\Debug\net7.0-windows\Prime_number_Form.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\bin\Debug\net7.0-windows\Prime_number_Form.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\bin\Debug\net7.0-windows\Prime_number_Form.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\bin\Debug\net7.0-windows\Prime_number_Form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\bin\Debug\net7.0-windows\Prime_number_Form.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.Form1.resources
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.csproj.GenerateResource.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\refint\Prime_number_Form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\Prime_number_Form.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_Form\Prime_number_Form\obj\Debug\net7.0-windows\ref\Prime_number_Form.dll

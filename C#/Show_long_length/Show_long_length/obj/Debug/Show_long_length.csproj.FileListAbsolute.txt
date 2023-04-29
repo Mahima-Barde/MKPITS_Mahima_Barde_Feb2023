@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Show_long_length\Show_long_length\bin\Debug\Show_long_length.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Show_long_length\Show_long_length\bin\Debug\Show_long_length.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Show_long_length\Show_long_length\bin\Debug\Show_long_length.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Show_long_length\Show_long_length\obj\Debug\Show_long_length.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Show_long_length\Show_long_length\obj\Debug\Show_long_length.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Show_long_length\Show_long_length\obj\Debug\Show_long_length.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Show_long_length\Show_long_length\obj\Debug\Show_long_length.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Show_long_length\Show_long_length\obj\Debug\Show_long_length.pdb

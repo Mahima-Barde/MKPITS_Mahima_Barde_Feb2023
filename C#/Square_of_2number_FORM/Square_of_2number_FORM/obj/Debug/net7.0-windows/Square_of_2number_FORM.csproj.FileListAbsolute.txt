@@ -1,0 +1,17 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\bin\Debug\net7.0-windows\Square_of_2number_FORM.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\bin\Debug\net7.0-windows\Square_of_2number_FORM.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\bin\Debug\net7.0-windows\Square_of_2number_FORM.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\bin\Debug\net7.0-windows\Square_of_2number_FORM.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\bin\Debug\net7.0-windows\Square_of_2number_FORM.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.Form1.resources
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.csproj.GenerateResource.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\refint\Square_of_2number_FORM.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\Square_of_2number_FORM.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Square_of_2number_FORM\Square_of_2number_FORM\obj\Debug\net7.0-windows\ref\Square_of_2number_FORM.dll

@@ -1,0 +1,17 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\bin\Debug\net7.0-windows\Calci_Window_Form.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\bin\Debug\net7.0-windows\Calci_Window_Form.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\bin\Debug\net7.0-windows\Calci_Window_Form.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\bin\Debug\net7.0-windows\Calci_Window_Form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\bin\Debug\net7.0-windows\Calci_Window_Form.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.Form1.resources
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.csproj.GenerateResource.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\refint\Calci_Window_Form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\Calci_Window_Form.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Calci_Window_Form\Calci_Window_Form\obj\Debug\net7.0-windows\ref\Calci_Window_Form.dll

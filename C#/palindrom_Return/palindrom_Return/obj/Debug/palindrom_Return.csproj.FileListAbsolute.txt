@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\palindrom_Return\palindrom_Return\bin\Debug\palindrom_Return.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\palindrom_Return\palindrom_Return\bin\Debug\palindrom_Return.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\palindrom_Return\palindrom_Return\bin\Debug\palindrom_Return.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\palindrom_Return\palindrom_Return\obj\Debug\palindrom_Return.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\palindrom_Return\palindrom_Return\obj\Debug\palindrom_Return.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\palindrom_Return\palindrom_Return\obj\Debug\palindrom_Return.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\palindrom_Return\palindrom_Return\obj\Debug\palindrom_Return.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\palindrom_Return\palindrom_Return\obj\Debug\palindrom_Return.pdb

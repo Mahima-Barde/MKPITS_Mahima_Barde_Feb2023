@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class_customer\class_customer\bin\Debug\class_customer.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class_customer\class_customer\bin\Debug\class_customer.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class_customer\class_customer\bin\Debug\class_customer.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class_customer\class_customer\obj\Debug\class_customer.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class_customer\class_customer\obj\Debug\class_customer.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class_customer\class_customer\obj\Debug\class_customer.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class_customer\class_customer\obj\Debug\class_customer.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class_customer\class_customer\obj\Debug\class_customer.pdb

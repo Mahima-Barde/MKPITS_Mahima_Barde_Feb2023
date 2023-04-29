@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_1-20\Prime_number_1-20\bin\Debug\Prime_number_1-20.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_1-20\Prime_number_1-20\bin\Debug\Prime_number_1-20.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_1-20\Prime_number_1-20\bin\Debug\Prime_number_1-20.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_1-20\Prime_number_1-20\obj\Debug\Prime_number_1-20.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_1-20\Prime_number_1-20\obj\Debug\Prime_number_1-20.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_1-20\Prime_number_1-20\obj\Debug\Prime_number_1-20.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_1-20\Prime_number_1-20\obj\Debug\Prime_number_1-20.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Prime_number_1-20\Prime_number_1-20\obj\Debug\Prime_number_1-20.pdb

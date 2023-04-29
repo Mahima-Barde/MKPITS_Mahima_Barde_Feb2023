@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Goto_Sttatement_Program\Goto_Sttatement_Program\bin\Debug\Goto_Sttatement_Program.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Goto_Sttatement_Program\Goto_Sttatement_Program\bin\Debug\Goto_Sttatement_Program.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Goto_Sttatement_Program\Goto_Sttatement_Program\bin\Debug\Goto_Sttatement_Program.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Goto_Sttatement_Program\Goto_Sttatement_Program\obj\Debug\Goto_Sttatement_Program.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Goto_Sttatement_Program\Goto_Sttatement_Program\obj\Debug\Goto_Sttatement_Program.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Goto_Sttatement_Program\Goto_Sttatement_Program\obj\Debug\Goto_Sttatement_Program.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Goto_Sttatement_Program\Goto_Sttatement_Program\obj\Debug\Goto_Sttatement_Program.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Goto_Sttatement_Program\Goto_Sttatement_Program\obj\Debug\Goto_Sttatement_Program.pdb

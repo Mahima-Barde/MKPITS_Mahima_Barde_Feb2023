@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_return_square\Double_return_square\bin\Debug\Double_return_square.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_return_square\Double_return_square\bin\Debug\Double_return_square.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_return_square\Double_return_square\bin\Debug\Double_return_square.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_return_square\Double_return_square\obj\Debug\Double_return_square.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_return_square\Double_return_square\obj\Debug\Double_return_square.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_return_square\Double_return_square\obj\Debug\Double_return_square.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_return_square\Double_return_square\obj\Debug\Double_return_square.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Double_return_square\Double_return_square\obj\Debug\Double_return_square.pdb

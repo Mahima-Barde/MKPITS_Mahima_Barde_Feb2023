@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_by_out_parameter\Method_by_out_parameter\bin\Debug\Method_by_out_parameter.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_by_out_parameter\Method_by_out_parameter\bin\Debug\Method_by_out_parameter.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_by_out_parameter\Method_by_out_parameter\bin\Debug\Method_by_out_parameter.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_by_out_parameter\Method_by_out_parameter\obj\Debug\Method_by_out_parameter.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_by_out_parameter\Method_by_out_parameter\obj\Debug\Method_by_out_parameter.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_by_out_parameter\Method_by_out_parameter\obj\Debug\Method_by_out_parameter.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_by_out_parameter\Method_by_out_parameter\obj\Debug\Method_by_out_parameter.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_by_out_parameter\Method_by_out_parameter\obj\Debug\Method_by_out_parameter.pdb

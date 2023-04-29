@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class employee having field and method\class employee having field and method\obj\Debug\class employee having field and method.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class employee having field and method\class employee having field and method\obj\Debug\class employee having field and method.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class employee having field and method\class employee having field and method\obj\Debug\class employee having field and method.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class employee having field and method\class employee having field and method\bin\Debug\class employee having field and method.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class employee having field and method\class employee having field and method\bin\Debug\class employee having field and method.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class employee having field and method\class employee having field and method\bin\Debug\class employee having field and method.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class employee having field and method\class employee having field and method\obj\Debug\class employee having field and method.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\class employee having field and method\class employee having field and method\obj\Debug\class employee having field and method.pdb

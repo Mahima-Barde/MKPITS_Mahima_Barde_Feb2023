@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_value_By_reference\Method_value_By_reference\bin\Debug\Method_value_By_reference.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_value_By_reference\Method_value_By_reference\bin\Debug\Method_value_By_reference.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_value_By_reference\Method_value_By_reference\bin\Debug\Method_value_By_reference.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_value_By_reference\Method_value_By_reference\obj\Debug\Method_value_By_reference.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_value_By_reference\Method_value_By_reference\obj\Debug\Method_value_By_reference.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_value_By_reference\Method_value_By_reference\obj\Debug\Method_value_By_reference.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_value_By_reference\Method_value_By_reference\obj\Debug\Method_value_By_reference.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_value_By_reference\Method_value_By_reference\obj\Debug\Method_value_By_reference.pdb

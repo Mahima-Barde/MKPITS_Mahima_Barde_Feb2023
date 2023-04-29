@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Build_pyramid_given_height/1.0.0": {
+        "runtime": {
+          "Build_pyramid_given_height.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Build_pyramid_given_height/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

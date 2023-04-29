@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition_of_array_in_2D", "Addition_of_array_in_2D\Addition_of_array_in_2D.csproj", "{37B15502-1DD9-4002-84F8-DA4B7F3EC230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B15502-1DD9-4002-84F8-DA4B7F3EC230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B15502-1DD9-4002-84F8-DA4B7F3EC230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B15502-1DD9-4002-84F8-DA4B7F3EC230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B15502-1DD9-4002-84F8-DA4B7F3EC230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BAA1097-CFB5-4999-9E78-1CD09A258647}
+	EndGlobalSection
+EndGlobal

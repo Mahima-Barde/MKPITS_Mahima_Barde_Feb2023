@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Single_level_Inheritance\Single_level_Inheritance\bin\Debug\Single_level_Inheritance.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Single_level_Inheritance\Single_level_Inheritance\bin\Debug\Single_level_Inheritance.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Single_level_Inheritance\Single_level_Inheritance\bin\Debug\Single_level_Inheritance.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Single_level_Inheritance\Single_level_Inheritance\obj\Debug\Single_level_Inheritance.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Single_level_Inheritance\Single_level_Inheritance\obj\Debug\Single_level_Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Single_level_Inheritance\Single_level_Inheritance\obj\Debug\Single_level_Inheritance.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Single_level_Inheritance\Single_level_Inheritance\obj\Debug\Single_level_Inheritance.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Single_level_Inheritance\Single_level_Inheritance\obj\Debug\Single_level_Inheritance.pdb

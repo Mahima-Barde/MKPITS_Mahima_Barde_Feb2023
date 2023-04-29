@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Loop_Statement_Foreach\Loop_Statement_Foreach\bin\Debug\Loop_Statement_Foreach.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Loop_Statement_Foreach\Loop_Statement_Foreach\bin\Debug\Loop_Statement_Foreach.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Loop_Statement_Foreach\Loop_Statement_Foreach\bin\Debug\Loop_Statement_Foreach.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Loop_Statement_Foreach\Loop_Statement_Foreach\obj\Debug\Loop_Statement_Foreach.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Loop_Statement_Foreach\Loop_Statement_Foreach\obj\Debug\Loop_Statement_Foreach.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Loop_Statement_Foreach\Loop_Statement_Foreach\obj\Debug\Loop_Statement_Foreach.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Loop_Statement_Foreach\Loop_Statement_Foreach\obj\Debug\Loop_Statement_Foreach.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Loop_Statement_Foreach\Loop_Statement_Foreach\obj\Debug\Loop_Statement_Foreach.pdb

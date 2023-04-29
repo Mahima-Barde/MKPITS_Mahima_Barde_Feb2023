@@ -1,0 +1,17 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\bin\Debug\net7.0-windows\Exam_form.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\bin\Debug\net7.0-windows\Exam_form.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\bin\Debug\net7.0-windows\Exam_form.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\bin\Debug\net7.0-windows\Exam_form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\bin\Debug\net7.0-windows\Exam_form.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.Form1.resources
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.csproj.GenerateResource.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\refint\Exam_form.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\Exam_form.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Exam_form\Exam_form\obj\Debug\net7.0-windows\ref\Exam_form.dll

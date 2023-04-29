@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\student class_fields _method with parameters\student class_fields _method with parameters\bin\Debug\student class_fields _method with parameters.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\student class_fields _method with parameters\student class_fields _method with parameters\bin\Debug\student class_fields _method with parameters.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\student class_fields _method with parameters\student class_fields _method with parameters\bin\Debug\student class_fields _method with parameters.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\student class_fields _method with parameters\student class_fields _method with parameters\obj\Debug\student class_fields _method with parameters.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\student class_fields _method with parameters\student class_fields _method with parameters\obj\Debug\student class_fields _method with parameters.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\student class_fields _method with parameters\student class_fields _method with parameters\obj\Debug\student class_fields _method with parameters.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\student class_fields _method with parameters\student class_fields _method with parameters\obj\Debug\student class_fields _method with parameters.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\student class_fields _method with parameters\student class_fields _method with parameters\obj\Debug\student class_fields _method with parameters.pdb

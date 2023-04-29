@@ -1,0 +1,8 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_store_student_name\Array_store_student_name\bin\Debug\Array_store_student_name.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_store_student_name\Array_store_student_name\bin\Debug\Array_store_student_name.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_store_student_name\Array_store_student_name\bin\Debug\Array_store_student_name.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_store_student_name\Array_store_student_name\obj\Debug\Array_store_student_name.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_store_student_name\Array_store_student_name\obj\Debug\Array_store_student_name.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_store_student_name\Array_store_student_name\obj\Debug\Array_store_student_name.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_store_student_name\Array_store_student_name\obj\Debug\Array_store_student_name.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Array_store_student_name\Array_store_student_name\obj\Debug\Array_store_student_name.pdb

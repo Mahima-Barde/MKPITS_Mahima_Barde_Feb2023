@@ -1,0 +1,17 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\bin\Debug\net7.0-windows\Number_Factorial.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\bin\Debug\net7.0-windows\Number_Factorial.deps.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\bin\Debug\net7.0-windows\Number_Factorial.runtimeconfig.json
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\bin\Debug\net7.0-windows\Number_Factorial.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\bin\Debug\net7.0-windows\Number_Factorial.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.Form1.resources
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.csproj.GenerateResource.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.AssemblyInfoInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.AssemblyInfo.cs
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\refint\Number_Factorial.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\Number_Factorial.genruntimeconfig.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Number_Factorial\Number_Factorial\obj\Debug\net7.0-windows\ref\Number_Factorial.dll
