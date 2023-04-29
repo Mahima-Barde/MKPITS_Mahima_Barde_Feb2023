@@ -1,8 +1,0 @@
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_Value_Number\Long_Value_Number\bin\Debug\Long_Value_Number.exe.config
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_Value_Number\Long_Value_Number\bin\Debug\Long_Value_Number.exe
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_Value_Number\Long_Value_Number\bin\Debug\Long_Value_Number.pdb
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_Value_Number\Long_Value_Number\obj\Debug\Long_Value_Number.csproj.AssemblyReference.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_Value_Number\Long_Value_Number\obj\Debug\Long_Value_Number.csproj.SuggestedBindingRedirects.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_Value_Number\Long_Value_Number\obj\Debug\Long_Value_Number.csproj.CoreCompileInputs.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_Value_Number\Long_Value_Number\obj\Debug\Long_Value_Number.exe
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_Value_Number\Long_Value_Number\obj\Debug\Long_Value_Number.pdb

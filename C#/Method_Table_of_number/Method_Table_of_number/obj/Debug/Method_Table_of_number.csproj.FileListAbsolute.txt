@@ -1,8 +1,0 @@
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Table_of_number\Method_Table_of_number\bin\Debug\Method_Table_of_number.exe.config
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Table_of_number\Method_Table_of_number\bin\Debug\Method_Table_of_number.exe
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Table_of_number\Method_Table_of_number\bin\Debug\Method_Table_of_number.pdb
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Table_of_number\Method_Table_of_number\obj\Debug\Method_Table_of_number.csproj.AssemblyReference.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Table_of_number\Method_Table_of_number\obj\Debug\Method_Table_of_number.csproj.SuggestedBindingRedirects.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Table_of_number\Method_Table_of_number\obj\Debug\Method_Table_of_number.csproj.CoreCompileInputs.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Table_of_number\Method_Table_of_number\obj\Debug\Method_Table_of_number.exe
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Method_Table_of_number\Method_Table_of_number\obj\Debug\Method_Table_of_number.pdb

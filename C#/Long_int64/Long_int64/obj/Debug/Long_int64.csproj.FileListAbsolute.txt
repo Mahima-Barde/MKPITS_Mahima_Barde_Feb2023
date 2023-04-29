@@ -1,8 +1,0 @@
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_int64\Long_int64\bin\Debug\Long_int64.exe.config
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_int64\Long_int64\bin\Debug\Long_int64.exe
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_int64\Long_int64\bin\Debug\Long_int64.pdb
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_int64\Long_int64\obj\Debug\Long_int64.csproj.AssemblyReference.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_int64\Long_int64\obj\Debug\Long_int64.csproj.SuggestedBindingRedirects.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_int64\Long_int64\obj\Debug\Long_int64.csproj.CoreCompileInputs.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_int64\Long_int64\obj\Debug\Long_int64.exe
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Long_int64\Long_int64\obj\Debug\Long_int64.pdb

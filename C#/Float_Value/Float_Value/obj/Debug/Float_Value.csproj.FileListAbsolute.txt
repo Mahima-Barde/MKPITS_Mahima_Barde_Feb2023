@@ -1,8 +1,0 @@
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Float_Value\Float_Value\bin\Debug\Float_Value.exe.config
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Float_Value\Float_Value\bin\Debug\Float_Value.exe
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Float_Value\Float_Value\bin\Debug\Float_Value.pdb
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Float_Value\Float_Value\obj\Debug\Float_Value.csproj.AssemblyReference.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Float_Value\Float_Value\obj\Debug\Float_Value.csproj.SuggestedBindingRedirects.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Float_Value\Float_Value\obj\Debug\Float_Value.csproj.CoreCompileInputs.cache
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Float_Value\Float_Value\obj\Debug\Float_Value.exe
-D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\C#\Float_Value\Float_Value\obj\Debug\Float_Value.pdb
