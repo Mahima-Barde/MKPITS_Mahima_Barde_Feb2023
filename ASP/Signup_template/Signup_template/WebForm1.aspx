@@ -5,6 +5,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <script type="text/javascript" language="javascript">
+        function message() {
+            alert("Your form is registered");
+        }
+
+    </script>
     <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -41,8 +47,8 @@ background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244
     <form id="form1" runat="server">
        <section class="vh-100 bg-image"
   style="background-image: url('https://mdbcdn.b-cdn.net/img/Photos/new-templates/search-box/img4.webp');
-    padding-inline: 284px";>
-  <div class="mask d-flex align-items-center h-100 gradient-custom-3"style="padding-inline: 133px;">
+    padding-inline: -2px";>
+  <div class="mask d-flex align-items-center h-100 gradient-custom-3"style="padding-inline: -2px;">
     <div class="container h-100">
       <div class="row d-flex justify-content-center align-items-center h-100">
         <div class="col-12 col-md-9 col-lg-7 col-xl-6" style="
@@ -53,7 +59,7 @@ background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244
             <div class="card-body p-5">
               <h2 class="text-uppercase text-center mb-5">Create an account</h2>
 
-              <form>
+              </section>
 
                 <div class="form-outline mb-4">
                   <input type="text" id="form3Example1cg" class="form-control form-control-lg" />
@@ -80,11 +86,9 @@ background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244
                   <label class="form-check-label" for="form2Example3g">
                     I agree all statements in <a href="#!" class="text-body"><u>Terms of service</u></a>
                   </label>
-                </div>
-
-                <div class="d-flex justify-content-center">
-                  <button type="button"
-                    class="btn btn-success btn-block btn-lg gradient-custom-4 text-body">Register</button>
+                    <br />
+                    <br />
+                    <asp:Button ID="Button1" runat="server" BackColor="#00FF99" OnClientClick="message()" Text="Register" Width="1098px" />
                 </div>
 
                 <p class="text-center text-muted mt-5 mb-0">Have already an account? <a href="#!"
