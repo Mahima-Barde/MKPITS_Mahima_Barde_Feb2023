@@ -12,11 +12,18 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
+            dateTimePicker1.Value = DateTime.Today;
+            dateTimePicker1.MinDate = DateTime.Today;
         }
+        enum Category { Student, ITProfessional }
+        Category category;
 
+        enum Gender { Male, Female, Other }
+        Gender gender;
         private void Form1_Load(object sender, EventArgs e)
         {
             //textBox2.Text = "1000";
@@ -44,6 +51,16 @@ namespace WindowsFormsApp1
             comboBox3.DisplayMember = "City_Name";
             comboBox3.ValueMember = "City_Id";
         }
-        
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            textBox3.Clear();
+            textBox4.Clear();
+            category = Category.Student;
+            double Student = 1000;
+            textBox2.Text = Student.ToString();
+        }
+
+
     }
 }
