@@ -9,6 +9,106 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tourest - Explore the World</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
+.w3-bar-block .w3-bar-item {padding:20px}
+
+/* About Us */
+
+.aboutbody{
+    background-color: #191919;
+}
+
+.about{
+    width: 100%;
+    padding: 78px 0px;
+}
+
+.about img{
+    height: auto;
+    width: 400px;
+}
+
+.abt-text{
+    width: 500px;
+}
+
+.abt-text h1{
+    font-size: 70px;
+    color: white;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.abt-text h1 span{
+    color: #fc0050;
+    letter-spacing: 1px;
+}
+
+.abt-text p{
+    color: white;
+    font-size: 24px;
+    margin-bottom: 45px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.connectbtn{
+    display: inline-block;
+    background-color: #fc0050;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: ease 0.4s;
+    border: 2px solid transparent;
+    letter-spacing: 1px;
+}
+
+.connectbtn:hover{
+    background-color: transparent;
+    border: 2px solid #fc0050;
+    transform: scale(1.1);
+}
+
+.connect-section{
+    margin-top: 26px;
+}
+
+
+.social-icons a{
+    height: 40px;
+    width: 40px;
+    margin: 4px;
+    font-size: 30px;
+    color: #101010;
+    background-color: white;
+    border-radius: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    transition: ease 0.30s;
+}
+
+.social-icons a:hover{
+    transform: scale(1.2);
+}
+
+</style>
+    
 
   <!-- 
     - favicon
@@ -56,15 +156,15 @@
         <ul class="navbar-list">
 
           <li>
-            <a href="#" class="navbar-link">Home</a>
+            <a href="WebForm2.aspx" class="navbar-link">Home</a>
           </li>
 
           <li>
-            <a href="#" class="navbar-link">About Us</a>
+            <a href="AboutUs.aspx" class="navbar-link">About Us</a>
           </li>
 
           <li>
-            <a href="#" class="navbar-link">Tours</a>
+            <a href="Tour.aspx" class="navbar-link">Tours</a>
           </li>
 
           <li>
