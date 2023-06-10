@@ -71,12 +71,11 @@ namespace WindowsFormsApp1
             return"record saved in  TableCourseRegDetail";
         }
         static int Courseid = 0;
-        public static string saveRegAddress(int Nation_Id, int , int State_Id, int City_Id)
+        public static string saveRegAddress(int Nation_Id, int State_Id, int City_Id)
         { 
          SqlConnection con=GetConnection();
             con.Open();
-            string query = "SELEECT top 1 courseid FROM" +
-                " tablecoursedetails ORDER BY cousere ";
+            string query = "SELEECT top 1 courseid FROM tablecoursedetails ORDER BY cousere ";
             SqlCommand command = new SqlCommand(query, con);
             Courseid = Convert.ToInt32(command.ExecuteScalar());
             query = "insert into TableRegAddress values(@Courseid,@Nation_ID,@State_ID,@City_ID)";

@@ -16,6 +16,8 @@
 body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 .w3-bar-block .w3-bar-item {padding:20px}
 
+
+
 /* About Us */
 
 .aboutbody{
@@ -57,12 +59,13 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 }
 
 .main{
-    width: 1130px;
-    max-width: 95%;
-    margin: 0 auto;
+    width: 1218px;
+    max-width: 125%;
+    margin: -64px auto;
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: black;
 }
 
 .connectbtn{
@@ -106,6 +109,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 .social-icons a:hover{
     transform: scale(1.2);
 }
+
+
 
 </style>
     
@@ -176,7 +181,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
           </li>
 
           <li>
-            <a href="#" class="navbar-link">Contact Us</a>
+            <a href="ContactUs.aspx" class="navbar-link">Contact Us</a>
           </li>
 
         </ul>
@@ -293,8 +298,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
             For the latest deals and tips, travel no further than your inbox
           </p>
 
-          <form action="" class="newsletter-form">
-            <input type="email" name="email" required placeholder="Email address" class="newsletter-input">
+          <form action="" class="newsletter-form" >
+              <!--change-->
+            <input type="email" Style="margin-bottom: 14px"; name="email" required placeholder="Email address" class="newsletter-input">
 
             <button type="submit" class="btn btn-primary">Subscribe</button>
           </form>

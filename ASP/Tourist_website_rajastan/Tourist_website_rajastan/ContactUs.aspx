@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <section class="about">
            <div class="main">
-            <img src="./assests/images/author-avatar.png" alt="My Photo">
+            <img src="./assets/images/aboutpic.png" alt="My Photo">
             <div class="abt-text">
                 <h1>About <span>Us</span></h1>
                 <p>Firstflight Travels is a travel website project developed by Mohd. Rahil using HTML, CSS and JavaScript.</p>
