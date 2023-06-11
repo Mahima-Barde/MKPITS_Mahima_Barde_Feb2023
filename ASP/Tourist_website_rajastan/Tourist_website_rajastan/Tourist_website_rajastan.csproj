@@ -97,12 +97,17 @@
     <Content Include="assets\images - Copy\shape-1.png" />
     <Content Include="assets\images - Copy\shape-2.png" />
     <Content Include="assets\images - Copy\shape-3.png" />
+    <Content Include="assets\images\.gitignore" />
     <Content Include="assets\images\about-banner.png" />
     <Content Include="assets\images\aboutpic.png" />
     <Content Include="assets\images\author-avatar.png" />
+    <Content Include="assets\images\background.jpg" />
     <Content Include="assets\images\blog-1.jpg" />
     <Content Include="assets\images\blog-2.jpg" />
     <Content Include="assets\images\blog-3.jpg" />
+    <Content Include="assets\images\cover.jpg" />
+    <Content Include="assets\images\css\auth.css" />
+    <Content Include="assets\images\css\particles.css" />
     <Content Include="assets\images\destination-1.jpg" />
     <Content Include="assets\images\destination-2.jpg" />
     <Content Include="assets\images\destination-3.jpg" />
@@ -118,22 +123,55 @@
     <Content Include="assets\images\hero-banner.png" />
     <Content Include="assets\images\hero-bg-bottom.png" />
     <Content Include="assets\images\hero-bg-top.png" />
+    <Content Include="assets\images\I1.jpg" />
+    <Content Include="assets\images\I2.jpg" />
+    <Content Include="assets\images\I3.jpg" />
+    <Content Include="assets\images\I4.jpg" />
+    <Content Include="assets\images\I5.jpg" />
+    <Content Include="assets\images\I6.jpg" />
+    <Content Include="assets\images\I7.jpg" />
+    <Content Include="assets\images\I8.jpg" />
+    <Content Include="assets\images\js\particles.js" />
+    <Content Include="assets\images\login.html" />
+    <Content Include="assets\images\loginbg.jpg" />
     <Content Include="assets\images\p1.jpg" />
     <Content Include="assets\images\p5.jpg" />
     <Content Include="assets\images\popular-1.jpg" />
     <Content Include="assets\images\popular-2.jpg" />
     <Content Include="assets\images\popular-3.jpg" />
+    <Content Include="assets\images\r1.jpg" />
+    <Content Include="assets\images\r2.jpg" />
+    <Content Include="assets\images\r3.jpg" />
+    <Content Include="assets\images\r4.jpg" />
+    <Content Include="assets\images\r5.jpg" />
+    <Content Include="assets\images\r6.jpg" />
+    <Content Include="assets\images\r7.jpg" />
+    <Content Include="assets\images\r8.jpg" />
+    <Content Include="assets\images\r9.jpg" />
+    <Content Include="assets\images\regisbg.jpg" />
+    <Content Include="assets\images\register.html" />
     <Content Include="assets\images\shape-1.png" />
     <Content Include="assets\images\shape-2.png" />
     <Content Include="assets\images\shape-3.png" />
+    <Content Include="assets\images\t1.jpg" />
+    <Content Include="assets\images\t2.jpg" />
+    <Content Include="assets\images\t3.jpg" />
+    <Content Include="assets\images\t4.jpg" />
+    <Content Include="assets\images\unsplash.jpg" />
+    <Content Include="assets\images\__screenshots\login.png" />
+    <Content Include="assets\images\__screenshots\register.png" />
     <Content Include="assets\js\script.js" />
-    <Content Include="ContactUs.aspx" />
+    <Content Include="Blogpage.aspx" />
+    <Content Include="Contact2aspx.aspx" />
+    <Content Include="ContactAboutaspx.aspx" />
     <Content Include="Destination.aspx" />
     <Content Include="favicon.svg" />
     <Content Include="index.html" />
     <Content Include="index.txt" />
+    <Content Include="login.aspx" />
+    <Content Include="Packages.aspx" />
     <Content Include="readme-images\desktop.png" />
-    <Content Include="Tour.aspx" />
+    <Content Include="Registrationform.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
     <Content Include="WebForm2.aspx" />
@@ -147,12 +185,26 @@
     <Compile Include="AboutUs.aspx.designer.cs">
       <DependentUpon>AboutUs.aspx</DependentUpon>
     </Compile>
-    <Compile Include="ContactUs.aspx.cs">
-      <DependentUpon>ContactUs.aspx</DependentUpon>
+    <Compile Include="Blogpage.aspx.cs">
+      <DependentUpon>Blogpage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="ContactUs.aspx.designer.cs">
-      <DependentUpon>ContactUs.aspx</DependentUpon>
+    <Compile Include="Blogpage.aspx.designer.cs">
+      <DependentUpon>Blogpage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact2aspx.aspx.cs">
+      <DependentUpon>Contact2aspx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact2aspx.aspx.designer.cs">
+      <DependentUpon>Contact2aspx.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactAboutaspx.aspx.cs">
+      <DependentUpon>ContactAboutaspx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactAboutaspx.aspx.designer.cs">
+      <DependentUpon>ContactAboutaspx.aspx</DependentUpon>
     </Compile>
     <Compile Include="Destination.aspx.cs">
       <DependentUpon>Destination.aspx</DependentUpon>
@@ -161,7 +213,28 @@
     <Compile Include="Destination.aspx.designer.cs">
       <DependentUpon>Destination.aspx</DependentUpon>
     </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Packages.aspx.cs">
+      <DependentUpon>Packages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Packages.aspx.designer.cs">
+      <DependentUpon>Packages.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registrationform.aspx.cs">
+      <DependentUpon>Registrationform.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registrationform.aspx.designer.cs">
+      <DependentUpon>Registrationform.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -169,12 +242,12 @@
     <Compile Include="Site1.Master.designer.cs">
       <DependentUpon>Site1.Master</DependentUpon>
     </Compile>
-    <Compile Include="Tour.aspx.cs">
-      <DependentUpon>Tour.aspx</DependentUpon>
+    <Compile Include="Site2.Master.cs">
+      <DependentUpon>Site2.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Tour.aspx.designer.cs">
-      <DependentUpon>Tour.aspx</DependentUpon>
+    <Compile Include="Site2.Master.designer.cs">
+      <DependentUpon>Site2.Master</DependentUpon>
     </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
@@ -199,10 +272,15 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\json\particles.json" />
+    <Content Include="assets\images\LICENSE" />
+    <Content Include="assets\images\README.md" />
+    <Content Include="assets\images\_config.yml" />
     <None Include="packages.config" />
     <Content Include="README.md" />
     <Content Include="style-guide.md" />
     <Content Include="Site1.Master" />
+    <Content Include="Site2.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

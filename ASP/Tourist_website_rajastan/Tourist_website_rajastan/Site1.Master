@@ -12,6 +12,18 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
     <link rel="stylesheet" type="text/css" href="./css/style.css">
+
+<!--register.html head-->
+    <meta name="description" content="">
+    <meta name="author" content="Matteo Bruni">
+   
+
+    <!-- Custom styles for this template -->
+    <link href="css/particles.css" rel="stylesheet"/>
+    <link href="css/auth.css" rel="stylesheet"/>
+    
+<!--head end-->
+
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 .w3-bar-block .w3-bar-item {padding:20px}
@@ -110,6 +122,211 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     transform: scale(1.2);
 }
 
+/* Locations */
+
+.location-content{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.col-content{
+    position: relative;
+    filter:brightness(95%);
+    transition: all 0.3s cubic-bezier(0.445,0.05,0.55,0.95);
+
+}
+
+.col-content img{
+    margin-bottom: 40px;
+    height: 500px;
+    border-radius: 27px;
+    width: 100%;
+    
+}
+
+.col-content h5{
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    font-weight: 500;
+    left: 20px;
+    bottom: 105px;
+    cursor: pointer;
+}
+
+.col-content p{
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    left: 20px;
+    bottom: 80px;
+    cursor: pointer;
+}
+
+.col-content:hover{
+    filter: brightness(120%);
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+.package-title h2 {
+    font-size: 40px;
+    font-weight: 650;
+    padding-top: 26px;
+    padding-bottom: 10px;
+    line-height: 2;
+    padding-left: 512px;
+}
+
+.package-title{
+    text-align: center;
+}
+
+.package-title h2{
+    font-size: 40px;
+    font-weight: 650;
+    padding-top: 29px;
+    padding-bottom: 10px;
+    line-height: 2;
+    padding-right: 496px;
+}
+
+.package-content{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.image{
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.445,0.05,0.55,0.95);
+    cursor: pointer;
+    filter: brightness(95%);
+}
+
+.image img{
+    width: 100%;
+    height: 500px;
+    border-radius: 30px;
+}
+
+.image h3{
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    top: 10px;
+    right: 20px;
+}
+
+.dest-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+    margin-bottom: 50px;
+}
+
+.location h4{
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.pac-details li{
+    font-size: 19px;
+    color: #4c4c4c;
+    margin-left: 15px;
+    margin-bottom: 2px;
+    list-style-type: disc;
+}
+
+.image:hover{
+    filter: brightness(120%);
+    transform: scale(1.03);
+}
+/*Destination-card*/
+
+
+.destination-card {
+    position: inherit;
+    border-radius: var(--radius-6);
+    overflow: hidden;
+}
+figure {
+    margin: 1em 0px;
+}
+
+/* Contact Us */
+
+.contactbody{
+    background-color: #101010;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.contact{
+    padding: 110px 30%;
+    height: 100%;
+    min-height: 100vh;
+    background-color: black;
+}
+
+.contact-form h1{
+    font-size: 80px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.contact-form h1 span{
+    color:#fc0050;
+}
+
+.contact-form p{
+    color: white;
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+
+.contact-form form input,form textarea{
+    width: 100%;
+    padding: 17px;
+    border: none;
+    outline: none;
+    background-color: #191919;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.contact-form form .submit-btn{
+    display: inline-block;
+    background-color: #fc0050;
+    font-size: 27px;
+    font-weight: 600px;
+    border: 2px solid transparent;
+    border-radius: 40px;
+    width: 220px;
+    cursor: pointer;
+    transition: ease 0.30s;
+
+}
+
+.contact-form form .submit-btn:hover{
+    border: 2px solid #fc0050;
+    background-color: transparent;
+    transform: scale(1.1);
+
+}
 
 
 </style>
@@ -136,6 +353,23 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
     <!--head portion close-->
+    <!--Script code-->
+
+    <script type="text/javascript"  language="javascript">
+        function message()
+
+        {
+            alert("Login form is submitted");
+
+        }
+        function message2()
+
+        {
+            alert("Registration form is submitted");
+        }
+        </script>
+    <!--Script code end here-->
+
 </head>
 <body>
     <form id="form1" runat="server">
@@ -165,28 +399,28 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
           </li>
 
           <li>
-            <a href="AboutUs.aspx" class="navbar-link">About Us</a>
+            <a href="ContactAboutaspx.aspx" class="navbar-link">About Us</a>
           </li>
 
           <li>
-            <a href="Tour.aspx" class="navbar-link">Tours</a>
+            <a href="Packages.aspx" class="navbar-link">Packages</a>
           </li>
 
           <li>
-            <a href="#" class="navbar-link">Destinations</a>
+            <a href="Destination.aspx" class="navbar-link">Destinations</a>
           </li>
 
           <li>
-            <a href="#" class="navbar-link">Blog</a>
+            <a href="Blogpage.aspx" class="navbar-link">Blog</a>
           </li>
 
           <li>
-            <a href="ContactUs.aspx" class="navbar-link">Contact Us</a>
+            <a href="Contact2aspx.aspx" class="navbar-link">Contact Us</a>
           </li>
 
         </ul>
 
-        <a href="#" class="btn btn-secondary">Booking Now</a>
+        <a href="Registrationform.aspx" class="btn btn-secondary">Register</a>
 
       </nav>
 

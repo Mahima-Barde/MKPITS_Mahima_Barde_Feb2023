@@ -12,53 +12,53 @@
     <div class="location-content">
         
         <a href="./locations.html#kashmir" target="_blank"><div class="col-content">
-            <img src="./files/l1.jpg" alt="">
-            <h5>India</h5>
-            <p>Kashmir</p>
+            <img src="./assets/images/I1.jpg" alt="">
+            <h5>Hawa Mahal</h5>
+            <p>Jaipur</p>
         </div></a>
 
        
 
         <a href="./locations.html#istanbul" target="_blank"><div class="col-content">
-            <img src="./files/l2.jpg" alt="">
-            <h5>Turkey</h5>
-            <p>Istanbul</p>
+            <img src="./assets/images/I2.jpg" alt="">
+            <h5>Blue City Heritage</h5>
+            <p>Jhodpur</p>
         </div></a>
 
         <a href="./locations.html#paris" target="_blank"><div class="col-content">
-            <img src="./files/l3.jpg" alt="">
-            <h5>France</h5>
-            <p>Paris</p>
+            <img src="./assets/images/I3.jpg" alt="">
+            <h5>Rampuria Haveli</h5>
+            <p>Bikaner</p>
         </div></a>
 
         <a href="./locations.html#bali" target="_blank"><div class="col-content">
-            <img src="./files/l4.jpg" alt="">
-            <h5>Indonesia</h5>
-            <p>Bali</p>
+            <img src="./assets/images/I4.jpg" alt="">
+            <h5>Ranthombore</h5>
+            <p>National Park</p>
         </div></a>
 
         <a href="./locations.html#dubai" target="_blank"><div class="col-content">
-            <img src="./files/l5.jpg" alt="">
-            <h5>United Arab Emirates</h5>
-            <p>Dubai</p>
+            <img src="./assets/images/I5.jpg" alt="">
+            <h5>Gadisar lake </h5>
+            <p>Jaisalmer</p>
         </div></a>
 
         <a href="./locations.html#geneva" target="_blank"><div class="col-content">
-            <img src="./files/l6.jpg" alt="">
-            <h5>Switzerland</h5>
-            <p>Geneva</p>
+            <img src="./assets/images/I6.jpg" alt="">
+            <h5>Babu Desert Safari</h5>
+            <p>Pushkar</p>
         </div></a>
 
         <a href="./locations.html#port-blair" target="_blank"><div class="col-content">
-            <img src="./files/l7.jpg" alt="">
-            <h5>Andaman & Nicobar</h5>
-            <p>Port Blair</p>
+            <img src="./assets/images/I7.jpg" alt="">
+            <h5>Ambrai Ghat</h5>
+            <p>Udaipur</p>
         </div></a>
 
         <a href="./locations.html#rome" target="_blank"><div class="col-content">
-            <img src="./files/l8.jpg" alt="">
-            <h5>Italy</h5>
-            <p>Rome</p>
+            <img src="./assets/images/I8.jpg" alt="">
+            <h5>Fort</h5>
+            <p>Chittorgarh</p>
         </div></a>
 
     </div>
