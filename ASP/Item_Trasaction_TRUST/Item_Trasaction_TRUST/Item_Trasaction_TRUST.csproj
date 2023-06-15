@@ -125,6 +125,8 @@
     <Content Include="Default.aspx" />
     <Content Include="Department.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="FinalForm.aspx" />
+    <Content Include="FInaltrasaction.aspx" />
     <Content Include="Global.asax" />
     <Content Include="ItemsInfo.aspx" />
     <Content Include="ItemTransaction.aspx" />
@@ -228,6 +230,20 @@
     </Compile>
     <Compile Include="Department.aspx.designer.cs">
       <DependentUpon>Department.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FinalForm.aspx.cs">
+      <DependentUpon>FinalForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FinalForm.aspx.designer.cs">
+      <DependentUpon>FinalForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FInaltrasaction.aspx.cs">
+      <DependentUpon>FInaltrasaction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FInaltrasaction.aspx.designer.cs">
+      <DependentUpon>FInaltrasaction.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
