@@ -13,5 +13,10 @@ namespace Item_Trasaction_TRUST
         {
 
         }
+
+        protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
