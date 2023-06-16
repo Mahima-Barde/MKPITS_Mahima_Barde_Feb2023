@@ -30,7 +30,7 @@ namespace Get_connection_DLL_forms
         }
 
 
-
+        //Chatgpt program added
             public void getvendorid()
             {
                 string vendorIdString = VendorClass.getVendor_id();
