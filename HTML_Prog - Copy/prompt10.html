@@ -1,0 +1,18 @@
+<html>
+<script>
+function show()
+{
+var i=document.getElementById("n1").value;
+while(i<=10)
+{
+i=prompt("Enter the Number");
+}
+document.getElementById("out").innerHTML="Number is greater :"+i;
+}
+</script>
+<body>
+Enter the Number<input type="text" id="n1"><br>
+<input type="button" value="submit" onclick="show();"><br><br>
+<span id="out"></span>
+</body>
+</html>

@@ -1,0 +1,26 @@
+ <html>
+<script language="javascript">
+var num=1;
+var result=2;
+var flag=0;
+while(num<=10)
+{
+   while(result<num)
+   { 
+      flag=0;
+       if(num%result==0)
+      {  
+      flag=1;
+      break;
+      }
+      result=result+1;
+    }
+         if(flag==0)
+         {
+           document.write(num +"<br>");
+         }
+num++;
+result=2;
+}
+</script>
+</html>

@@ -1,0 +1,21 @@
+<html>
+<script>
+var num;
+function ValidNumber()
+{
+num=document.getElementById("n1").value;
+if(isNaN(num))
+{
+alert(num+" is not a number");
+}
+else
+{
+alert(num+" is a valid number");
+}
+}
+</script>
+<body>
+Enter the Number :<input type="text" id="n1"><br><br>
+<input type="button" value="Cheak" onclick="ValidNumber();">
+</body>
+</html>

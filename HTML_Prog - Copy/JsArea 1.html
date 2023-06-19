@@ -1,0 +1,19 @@
+<html>
+<script language="javascript">
+function Area()
+{ 
+var l,b,a;
+l=document.getElementById("n1").value;
+b=document.getElementById("n2").value;
+a=l*b;
+document.getElementById("out").innerHTML="Area "+a;
+//alert("Area "+a);
+}
+</script>
+<body>
+length:<input type="text" id="n1"><br><br>
+Breadth:<input type="text" id="n2"><br><br>
+<input type="button" value="Area" onclick="Area();"><br>
+<span id="out"> Area:</span>
+</body>
+</html>

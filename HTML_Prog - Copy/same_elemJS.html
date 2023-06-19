@@ -1,0 +1,28 @@
+<html>
+<script language="javascript">
+function cheak()
+{
+var num1,num2;
+num1=document.getElementById("n1").value;
+num2=document.getElementById("n2").value;
+if(num1==num2)
+{
+document.getElementById("out").innerHTML="Both Number is same";
+}
+else if(num1>num2)
+{
+document.getElementById("out").innerHTML=num1+" is greater than "+num2;
+}
+else
+{
+document.getElementById("out").innerHTML=num2+" is greater than "+num1;
+}
+}
+</script>
+<body>
+Number 1:<input type="number" id="n1"><br><br>
+Number 2:<input type="number" id="n2"><br><br>
+<input type="button" value="OK" onclick="cheak();"><br><br>
+<span id="out"></span>
+</body>
+</html>

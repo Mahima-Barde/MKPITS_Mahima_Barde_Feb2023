@@ -1,0 +1,53 @@
+<html>
+<script>
+var re,a;
+function one(a)
+{
+//document.getElementById("n1").value="1";
+//a=document.getElementById("n1").value;
+return a;
+}
+var re=one();
+function add()
+{
+document.getElementById("n1").value="+";
+d=document.getElementById("n1").value;
+return d;
+}
+//var re1=add();
+function two()
+{
+document.getElementById("n1").value="2";
+a=document.getElementById("n1").value;
+return a;
+}
+//var ret2=two();
+function three()
+{
+document.getElementById("n1").value="3";
+a=document.getElementById("n1").value;
+return a;
+}
+//var ret3=three();
+function sub()
+{
+document.getElementById("n1").value="-";
+d=document.getElementById("n1").value;
+return d;
+}
+//var ret4=sub();
+function equal()
+{
+alert(re);
+}
+</script>
+<body>
+<input type="text" id="n1" name="c1"><br>
+<input type="button" value="1" name="s1" onclick=one(document.getElementById("n1").value="1");>&nbsp;&nbsp;
+<input type="button" value="2" name="s2" onclick=two();>&nbsp;&nbsp;
+<input type="button" value="3" name="s3" onclick=three();><br>
+<input type="button" value="+" onclick="add()">&nbsp;&nbsp;
+<input type="button" value="-" onclick=sub();>&nbsp;&nbsp;
+<input type="button" value="=" onclick=equal(a,d,a);><br>
+</body>
+</html>

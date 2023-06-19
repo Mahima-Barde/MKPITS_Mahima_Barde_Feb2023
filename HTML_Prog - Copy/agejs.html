@@ -1,0 +1,21 @@
+<html>
+<script>
+function Age()
+{var n1;
+n1=document.getElementById("v1").value;
+if(n1>18)
+{
+document.getElementById("out").innerHTML="He/She is Adult";
+}
+else
+{
+document.getElementById("out").innerHTML="He/She is Minor";
+}
+}
+</script>
+<body>
+Age :<input type="number" id="v1"><br>
+<input type="button" value="Show" onclick="Age();"><br>
+<span id="out"></span>
+</body>
+</html>

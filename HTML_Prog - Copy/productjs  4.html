@@ -1,0 +1,20 @@
+<html>
+<script language="javascript">
+function product()
+{
+var p,r,q,amount;
+p=document.getElementById("p1").value;
+r=document.getElementById("r").value;
+q=document.getElementById("q").value;
+amount=r*q;
+document.getElementById("out").innerHTML="Total Amount :"+amount;
+}
+</script>
+<body>
+Product Name :<input type="text" id="p1"><br><br>
+Rate :<input type="text" id="r"><br><br>
+Quantity :<input type="number" id="q"><br><br>
+<input type="button" value="OK" onclick="product();"><br><br>
+<span id="out">Total Amount :</span>
+</body>
+</html>

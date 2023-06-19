@@ -1,0 +1,22 @@
+<html>
+<script>
+function showTable()
+{
+var num,result;
+var mul=1;
+var r="";
+num=document.getElementById("n1").value;
+while(mul<=10)
+{
+result=num*mul;
+r += "<br>"+num+"*"+mul+"="+result ;//here equation r is storing whole equation of num table and also <br> 
+mul++;
+}
+document.getElementById("out").innerHTML=r;//this equation run only one time;
+}
+</script>
+<body>
+Enter the Number :<input type="text" id="n1"><br>
+<input type="button" value="Display Table" onclick="showTable();"><br>
+<span id="out"></span>
+</body>

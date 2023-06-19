@@ -1,0 +1,23 @@
+<!--Write a program that determines whether a given number is even or odd.-->
+<script>
+function showevenorodd()
+{
+var num;
+num=document.getElementById("n1").value;
+     if(num%2==0)
+      {
+        document.getElementById("s1").innerHTML= num +" is Even number";
+      }
+    else
+     {
+       document.getElementById("s1").innerHTML=num+" is Odd number";
+     }
+}
+</script>
+<html>
+<h1>Show the given number is Even or Odd</h1>
+<hr>
+Enter the number :<input type="text" id="n1"><br><br>
+<input type="button" value="Even/Odd" onclick="showevenorodd();"><br><br>
+<span id="s1"></span>
+</html>

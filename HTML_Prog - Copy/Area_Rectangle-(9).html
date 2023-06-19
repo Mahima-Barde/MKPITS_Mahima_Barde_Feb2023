@@ -1,0 +1,16 @@
+<!--Write a program that calculates the area of a rectangle given its width and height.-->
+<script>
+function showArea()
+{
+var length=document.getElementById("n1").value;
+var breadth=document.getElementById("n2").value;
+var Area=length*breadth;
+document.getElementbyId("s1").innerHTML="Area Of Rectangle ="+Area;
+}
+</script>
+<html>
+Enter the length =<input type="text" id="n1">
+Enter the Breadth=<input type="text" id="n2">
+<input type="button" value="Calculate" onclick="showArea();">
+<span id="s1"></span>
+</html>

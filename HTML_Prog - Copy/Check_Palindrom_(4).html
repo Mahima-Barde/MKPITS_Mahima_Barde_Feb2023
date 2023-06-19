@@ -1,0 +1,23 @@
+<!--Write a program that checks if a given word is a palindrome.-->
+<script>
+function showPalindrom()
+{
+var sum=0;
+var num;
+num=document.getElementById("n1").value;
+var digit1=num%10;   //3
+var digit2=Math.floor(num/10)%10;  //2
+var digit3=Math.floor(num/100);    //1
+var reversnum=(100*digit1)+(10*digit2)+(digit3);
+document.getElementById.("s1")innerHTML="Reverse is"+reversnum;
+}
+
+</script>
+<html>
+<h1> Cheak given number is Palindrom or not</h1>
+<hr>
+<body>
+Enter the number :<input type="text" id="n1"><br><br>
+<input type="button" value="Check" onclick="showPalindrom();"><br>
+<span id="s1"><span>
+</body>

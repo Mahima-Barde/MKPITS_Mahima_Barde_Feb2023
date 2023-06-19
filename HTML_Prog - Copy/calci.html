@@ -1,0 +1,269 @@
+<html>
+<script language="javascript">
+var pnum,oper;
+function show1()
+{
+     if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+       (document.f1.t1.value=="*") ||(document.f1.t1.value=="/") ||
+        (document.f1.t1.value=="%") || (document.f1.t1.value=="^"))
+         { 
+          document.f1.t1.value="";
+          document.f1.t1.value="1";
+         }
+     else
+        {
+          document.f1.t1.value=document.f1.t1.value+"1";  
+        }
+}
+function show2()
+{ 
+         if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+            (document.f1.t1.value=="*") ||(document.f1.t1.value=="/") ||
+            (document.f1.t1.value=="%") || (document.f1.t1.value=="^"))
+          {
+           document.f1.t1.value="";
+           document.f1.t1.value="2";
+          }
+         else
+          {
+            document.f1.t1.value=document.f1.t1.value+"2";
+          }
+ }
+function show3()
+{
+           if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+              (document.f1.t1.value=="*") || (document.f1.t1.value=="/") ||
+              (document.f1.t1.value=="%") || (document.f1.t1.value=="^"))   
+               {
+               document.f1.t1.value="";
+               document.f1.t1.value="3";
+              }
+               else
+              {
+              document.f1.t1.value=document.f1.t1.value+"3";
+              }
+}
+function show4()
+{
+        if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+           (document.f1.t1.value=="*") ||(document.f1.t1.value=="/") ||
+            (document.f1.t1.value=="%") || (document.f1.t1.value=="^"))
+
+        {
+         document.f1.t1.value="";
+         document.f1.t1.value="4";
+        }
+        else
+       {
+       document.f1.t1.value=document.f1.t1.value +"4";
+       }
+}
+
+function show5()
+{
+    if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+       (document.f1.t1.value=="*") ||(document.f1.t1.value=="/") ||
+       (document.f1.t1.value=="%") || (document.f1.t1.value=="^"))
+    {
+      document.f1.t1.value="";
+      document.f1.t1.value="5"
+    }
+    else
+   {
+    document.f1.t1.value=document.f1.t1.value +"5";
+   }
+}
+function show6()
+{
+    if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+       (document.f1.t1.value=="*") ||(document.f1.t1.value=="/") ||
+       (document.f1.t1.value=="%") || (document.f1.t1.value=="^"))
+    {
+      document.f1.t1.value="";
+      document.f1.t1.value="6"
+    }
+    else
+   {
+    document.f1.t1.value=document.f1.t1.value +"6";
+   }
+}
+function show7()
+{
+    if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+       (document.f1.t1.value=="*") ||(document.f1.t1.value=="/") ||
+       (document.f1.t1.value=="%") || (document.f1.t1.value=="^"))
+    {
+      document.f1.t1.value="";
+      document.f1.t1.value="7"
+    }
+    else
+   {
+    document.f1.t1.value=document.f1.t1.value +"7";
+   }
+}
+function show8()
+{
+    if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+       (document.f1.t1.value=="*") ||(document.f1.t1.value=="/") ||
+       (document.f1.t1.value=="%") || (document.f1.t1.value=="^"))
+    {
+      document.f1.t1.value="";
+      document.f1.t1.value="8"
+    }
+    else
+   {
+    document.f1.t1.value=document.f1.t1.value +"8";
+   }
+}
+function show9()
+{
+    if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+       (document.f1.t1.value=="*") ||(document.f1.t1.value=="/") ||
+       (document.f1.t1.value=="%") || (document.f1.t1.value=="^"))
+    {
+      document.f1.t1.value="";
+      document.f1.t1.value="9"
+    }
+    else
+   {
+    document.f1.t1.value=document.f1.t1.value +"9";
+   }
+}
+function show0()
+{
+    if((document.f1.t1.value=="+") || (document.f1.t1.value=="-") ||
+       (document.f1.t1.value=="*") ||(document.f1.t1.value=="/") ||
+       (document.f1.t1.value=="%") || (document.f1.t1.value=="^") )
+    {
+      document.f1.t1.value="";
+      document.f1.t1.value="0"
+    }
+    else
+   {
+    document.f1.t1.value=document.f1.t1.value +"0";
+   }
+}
+function showplus()
+{
+pnum=document.f1.t1.value;
+document.f1.t1.value="+";
+oper="+";
+}
+function showminus()
+{
+pnum=document.f1.t1.value;
+document.f1.t1.value="-";
+oper="-";
+}
+function showmul()
+{
+pnum=document.f1.t1.value;
+document.f1.t1.value="*";
+oper="*";
+}
+function showdiv()
+{
+pnum=document.f1.t1.value;
+document.f1.t1.value="/";
+oper="/";
+}
+function showmod()
+{
+pnum=document.f1.t1.value;
+document.f1.t1.value="%";
+oper="%";
+}
+function showsq()
+{
+pnum=document.f1.t1.value;
+document.f1.t1.value="^";
+oper="^";
+}
+function Result()
+{
+   if(oper=="+")
+     {
+     var a=parseInt(document.f1.t1.value)+parseInt(pnum);
+     document.f1.t1.value=a;
+      }
+ else if(oper=="-")
+       {
+         var a=parseInt(pnum)-parseInt(document.f1.t1.value);
+         document.f1.t1.value=a;
+      }
+ else if(oper=="*")
+          {
+         var a=parseInt(pnum)*parseInt(document.f1.t1.value);
+         document.f1.t1.value=a;
+            }
+else if(oper=="/")
+           {
+           var a=parseInt(pnum)/parseInt(document.f1.t1.value);
+           document.f1.t1.value=a;
+           }
+else if(oper=="%")
+           {
+          var a=parseInt(pnum)%parseInt(document.f1.t1.value);
+           document.f1.t1.value=a;
+           }
+else 
+{
+var a=parseInt(pnum)*parseInt(document)
+
+
+
+
+}
+</script>
+<style>
+td
+{
+text-align:center;
+}
+</style>
+<body>
+<form name="f1" style="width:260;height:450;border:2px solid black;">
+<table width=100% align=center border=2px height=20%>
+<tr>
+   <td><input type="text" name="t1" style="padding:20px;border:2px solid black;"/></td>
+</tr>
+</table>
+<table width=100% align=center>
+      <tr>
+         <td><input type="button" value="1" name="b1" style="padding:18px;" onclick="show1();"></td>
+         <td><input type="button" value="2" name="b2" style="padding:18px;" onclick="show2();"></td>   
+         <td><input type="button" value="3" name="b3" style="padding:18px;" onclick="show3();"></td>
+</tr>
+<tr>
+         <td><input type="button" value="4" name="b10" style="padding:18px;" onclick="show4();"></td>
+         <td><input type="button" value="5" name="b11" style="padding:18px;" onclick="show5();"></td>
+         <td><input type="button" value="6" name="b12" style="padding:18px;" onclick="show6();"></td>
+</tr>
+
+<tr>
+         <td><input type="button" value="7" name="b13" style="padding:18px;" onclick="show7();"></td>
+         <td><input type="button" value="8" name="b14" style="padding:18px;" onclick="show8();"></td>
+         <td><input type="button" value="9" name="b15" style="padding:18px;" onclick="show9();"></td>
+</tr>    
+ <tr>
+         <td><input type="button" value="+" name="b4" style="padding:18px;" onclick="showplus();"></td>
+         <td><input type="button" value="-" name="b5" style="padding:18px;" onclick="showminus();"></td>   
+         <td><input type="button" value="=" name="b6" style="padding:18px;" onclick="Result();"></td>
+</tr>
+<tr>
+         <td><input type="button" value="*" name="b7" style="padding:18px;" onclick="showmul();"></td>
+         <td><input type="button" value="/" name="b8" style="padding:18px;" onclick="showdiv();"></td>
+         <td><input type="button" value="%" name="b9" style="padding:18px;" onclick="showmod();"></td>
+</tr>
+<tr>
+          <td><input type="reset" value="Clr" name="b13" style="padding:15px;"></td>
+           <td><input type="button" value="0" name="b16" style="padding:18px;" onclick="show0();"></td>
+           <td><input type="button" value="^" name="b17" style="padding:18px;" onclick="showsq();"></td>
+</tr>
+</table>
+
+
+
+  </form>
+</body>
+</html>

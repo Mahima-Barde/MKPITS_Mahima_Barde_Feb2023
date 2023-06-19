@@ -1,0 +1,20 @@
+<html>
+<script>
+function shownumber()
+{ 
+var num;
+if (isNaN(num))
+{
+alert("Not Valid Number");
+}
+else
+{
+alert("It is Valid Number");
+}
+}
+</script>
+<body>
+Enter number :<input type="text" name="n1"><br>
+<input type="button" value="Submit" onclick="shownumber(document.getElementsByName('n1')[0].value);">
+</body>
+</html>

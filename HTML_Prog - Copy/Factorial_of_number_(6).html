@@ -1,0 +1,26 @@
+<!--Write a program that calculates the factorial of a given number.-->
+
+<html>
+<script>
+function showfactorial()
+{
+var num=document.getElementById("n1").value;
+var flag=num;
+var fact=1;
+while(num>0)
+{
+fact=fact*num;
+num--;
+}
+document.getElementById("s1").innerHTML="Factorial of "+ flag +" is "+fact;
+}
+</script>
+<body>
+<h1>Factorial of Number</h1>
+<hr>
+Enter the number :<input type="text" id="n1">
+<br><br>
+<input type="button" value=factorial! onclick="showfactorial();"><br><br>
+<span id="s1"></span>
+</body>
+</html>

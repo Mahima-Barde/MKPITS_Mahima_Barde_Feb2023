@@ -1,0 +1,41 @@
+<html>
+<script>
+function show()
+{
+var v,result;
+v=document.getElementById("v1").value;
+switch(v)
+{ 
+case 'a','A':
+result=v+" character is vowel";
+break;
+
+case 'e','E':
+result=v+" character is vowel";
+break;
+
+case 'i','I':
+result=v+" character is vowel";
+break;
+
+case 'o','O':
+result=v+" character is vowel";
+break;
+ 
+case 'u','U':
+result=v+" character is Vowel";
+break;
+
+default:
+result=v+" character is consonent";
+break;
+}
+alert(result);
+}
+</script>
+<body>
+<h1>Check Whether the character is vowel or consonent </h1><br>
+Enter the Number :<input type="text" id="v1"><br>
+<input type="button" id="b1" value="Cheak" onclick="show();">
+</body>
+<html>
