@@ -11,7 +11,7 @@
 
     <div class="location-content">
         
-        <a href="./locations.html#kashmir" target="_blank"><div class="col-content">
+        <a href="./Locationdetail.aspx#kashmir" target="_blank"><div class="col-content">
             <img src="./assets/images/I1.jpg" alt="">
             <h5>Hawa Mahal</h5>
             <p>Jaipur</p>

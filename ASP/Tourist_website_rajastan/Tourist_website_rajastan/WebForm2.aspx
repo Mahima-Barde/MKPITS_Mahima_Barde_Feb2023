@@ -11,7 +11,7 @@
 
       <section class="section hero"
         style="background-image: url('./assets/images/hero-bg-bottom.png') url('./assets/images/hero-bg-top.png')">
-        <div class="container">
+        <div class="container" style="background-image:url(./assets/images/blog-12.jpg);height:118%;width:100%;">
 
           <img src="./assets/images/shape-1.png" width="61" height="61" alt="Vector Shape" class="shape shape-1">
 
@@ -21,9 +21,9 @@
 
           <div class="hero-content">
 
-            <p class="section-subtitle">Explore Your Travel</p>
+            <p class="section-subtitle">Rajasthan Tourism</p>
 
-            <h2 class="hero-title">Trusted Travel Agency</h2>
+            <h2 class="A Land of Exotic Architecture, Vibrant Culture, Rich Wildlife and Warm Hospitality"</h2>
 
             <p class="hero-text">
               I travel not to go anywhere, but to go. I travel for travel's sake the great affair is to move.

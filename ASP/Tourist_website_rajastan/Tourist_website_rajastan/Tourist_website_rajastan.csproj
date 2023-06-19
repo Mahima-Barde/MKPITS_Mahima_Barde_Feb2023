@@ -103,6 +103,7 @@
     <Content Include="assets\images\author-avatar.png" />
     <Content Include="assets\images\background.jpg" />
     <Content Include="assets\images\blog-1.jpg" />
+    <Content Include="assets\images\blog-12.jpg" />
     <Content Include="assets\images\blog-2.jpg" />
     <Content Include="assets\images\blog-3.jpg" />
     <Content Include="assets\images\cover.jpg" />
@@ -148,6 +149,7 @@
     <Content Include="assets\images\r7.jpg" />
     <Content Include="assets\images\r8.jpg" />
     <Content Include="assets\images\r9.jpg" />
+    <Content Include="assets\images\Rajsathan_vid.mp4" />
     <Content Include="assets\images\regisbg.jpg" />
     <Content Include="assets\images\register.html" />
     <Content Include="assets\images\shape-1.png" />
@@ -168,6 +170,7 @@
     <Content Include="favicon.svg" />
     <Content Include="index.html" />
     <Content Include="index.txt" />
+    <Content Include="Locationdetail.aspx" />
     <Content Include="login.aspx" />
     <Content Include="Packages.aspx" />
     <Content Include="readme-images\desktop.png" />
@@ -212,6 +215,13 @@
     </Compile>
     <Compile Include="Destination.aspx.designer.cs">
       <DependentUpon>Destination.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Locationdetail.aspx.cs">
+      <DependentUpon>Locationdetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Locationdetail.aspx.designer.cs">
+      <DependentUpon>Locationdetail.aspx</DependentUpon>
     </Compile>
     <Compile Include="login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
