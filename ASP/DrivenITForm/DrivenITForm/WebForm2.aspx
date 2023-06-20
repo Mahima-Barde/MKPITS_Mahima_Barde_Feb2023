@@ -29,7 +29,7 @@
 &nbsp;
         <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Edit" />
 &nbsp;
-        <asp:Button ID="Button3" runat="server" Text="Delete" />
+        <asp:Button ID="Button3" runat="server" Text="Delete" OnClick="Button3_Click" />
 </p>
     <p>
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataKeyNames="TransID" DataSourceID="SqlDataSource2" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" Width="796px">

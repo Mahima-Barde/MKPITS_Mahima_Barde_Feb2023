@@ -10,7 +10,7 @@
       -->
 
       <section class="section hero"
-        style="background-image: url('./assets/images/hero-bg-bottom.png') url('./assets/images/hero-bg-top.png')">
+        style="background-image: url('./assets/images/hero-bg-bottom.png') url('./assets/images/hero-bg-top.png');width:100%;">
         <div class="container" style="background-image:url(./assets/images/blog-12.jpg);height:118%;width:100%;">
 
           <img src="./assets/images/shape-1.png" width="61" height="61" alt="Vector Shape" class="shape shape-1">
