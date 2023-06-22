@@ -7,6 +7,7 @@
     <meta charset="utf-8" />
    
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title><%: Page.Title %> - My ASP.NET Application</title>
 
     <asp:PlaceHolder runat="server">
@@ -15,7 +16,28 @@
 
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <!--extra style tag is added here for dropdown list -->
+    <style>
+   .dropdown:hover>.dropdown-menu {
+  display: block;
+  background-color: unset;
+    border: 2px;
+}
 
+        .dropdown > .dropdown-toggle:active {
+            /*Without this, clicking will make it sticky*/
+            pointer-events: none;
+            background-color: unset;
+            border: hidden;
+        }
+   
+    .btn btn-primary dropdown-toggle
+        {
+        background-color:unset;
+        border:hidden;
+        }
+
+    </style>
 </head>
 <body>
     <form runat="server">
@@ -47,19 +69,121 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                
 
-                    <ul class="navbar-nav flex-grow-1">
-                        <div class="dropdown">
-                         <li class="nav-item"><a class="nav-link" runat="server" href="~/">Women Ethics</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/">Mens</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Kids</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Home & Kitchen</a></li>
-                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Beauty & Health</a></li>
-                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Jewellery & Accessories</a></li>
+                    
+                    <div class="dropdown">
+                                <button
+                                     class="btn btn-primary dropdown-toggle" style="background-color:unset;border:hidden;"
+                                       type="button"
+                                       id="Button"
+                                       data-mdb-toggle="dropdown"
+                                        aria-expanded="false"
+                                             >
+                                          Women wear
+                                            </button>
+                                          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                          <li><a class="dropdown-item" href="#">Action</a></li>
+                                          <li><a class="dropdown-item" href="#">Another action</a></li>
+                                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                          </ul>
+                                            </div>
+
+                      <div class="dropdown">
+                                <button
+                                     class="btn btn-primary dropdown-toggle" style="background-color:unset;border:hidden;"
+                                       type="button"
+                                       id="Button2"
+                                       data-mdb-toggle="dropdown"
+                                        aria-expanded="false"
+                                             >
+                                          Mens
+                                            </button>
+                                          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                          <li><a class="dropdown-item" href="#">Action</a></li>
+                                          <li><a class="dropdown-item" href="#">Another action</a></li>
+                                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                          </ul>
+                                            </div>
+
+                      <div class="dropdown">
+                                <button
+                                     class="btn btn-primary dropdown-toggle" style="background-color:unset;border:hidden;"
+                                       type="button"
+                                       id="Button3"
+                                       data-mdb-toggle="dropdown"
+                                        aria-expanded="false"
+                                             >
+                                          Kids
+                                            </button>
+                                          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                          <li><a class="dropdown-item" href="#">Action</a></li>
+                                          <li><a class="dropdown-item" href="#">Another action</a></li>
+                                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                          </ul>
+                                            </div>
+                      <div class="dropdown">
+                                <button
+                                     class="btn btn-primary dropdown-toggle" style="background-color:unset;border:hidden;"
+                                       type="button"
+                                       id="Button4"
+                                       data-mdb-toggle="dropdown"
+                                        aria-expanded="false"
+                                             >
+                                          Home & Kitchen
+                                            </button>
+                                          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                          <li><a class="dropdown-item" href="#">Action</a></li>
+                                          <li><a class="dropdown-item" href="#">Another action</a></li>
+                                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                          </ul>
+                                            </div>
+                    <div class="dropdown">
+                                <button
+                                     class="btn btn-primary dropdown-toggle" style="background-color:unset;border:hidden;"
+                                       type="button"
+                                       id="Button5"
+                                       data-mdb-toggle="dropdown"
+                                        aria-expanded="false"
+                                             >
+                                       Beauty & Health
+                                            </button>
+                                          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                          <li><a class="dropdown-item" href="#">Action</a></li>
+                                          <li><a class="dropdown-item" href="#">Another action</a></li>
+                                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                          </ul>
+                                            </div>
+                    <div class="dropdown">
+                                <button
+                                     class="btn btn-primary dropdown-toggle" style="background-color:unset;border:hidden;"
+                                       type="button"
+                                       id="Button6"
+                                       data-mdb-toggle="dropdown"
+                                        aria-expanded="false"
+                                             >
+                                      Jewellery & Accessories
+                                            </button>
+                                          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                          <li><a class="dropdown-item" href="#">Action</a></li>
+                                          <li><a class="dropdown-item" href="#">Another action</a></li>
+                                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                          </ul>
+                                            </div>
+
+
+
+
+
+
+
+
+
+
                         </div>
-                    </ul>
+                   
                 </div>
-            </div>
+            
         </nav>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">

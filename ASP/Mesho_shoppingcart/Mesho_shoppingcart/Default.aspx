@@ -62,11 +62,12 @@
 border:1px ; background-color: #FFFFFF">
 <tr>
 <td align="center">
-    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl='<%# "Image1.aspx?id=" + Eval("prodimage") %>'>
-    
+   
+
+   <a href='<%# Eval("prodid","Productsdetails.aspx?prodid={0}") %>'>
 <asp:Image height="300px" Width="250px" ID="Image1" ImageUrl='<%# Bind("prodimage", "~/{0}") %>' runat="server"
 />
-      </asp:HyperLink>
+      </a>
 
 </td>
 </tr>
