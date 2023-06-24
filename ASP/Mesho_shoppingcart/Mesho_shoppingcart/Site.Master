@@ -36,6 +36,15 @@
         background-color:unset;
         border:hidden;
         }
+   #title
+     {
+        color:rgb(159,32,137);
+       font-weight:bolder;
+      }
+    .dropdown-item{
+      background-color:white;
+
+            }
 
     </style>
 </head>
@@ -70,7 +79,7 @@
                 </button>
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                 
-
+                    <!--dropdowm list code added here-->
                     
                     <div class="dropdown">
                                 <button
@@ -80,14 +89,19 @@
                                        data-mdb-toggle="dropdown"
                                         aria-expanded="false"
                                              >
-                                          Women wear
+                                          Women Wear
                                             </button>
+                        
                                           <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                          <li><a class="dropdown-item" href="#">Action</a></li>
-                                          <li><a class="dropdown-item" href="#">Another action</a></li>
-                                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                          <li><a class="dropdown-item" href="#" id="title">All Women Ethnic</a></li>
+                                          <li><a class="dropdown-item" href="#">Sarees</a></li>
+                                          <li><a class="dropdown-item" href="#">Kurtis</a></li>
+                                          <li><a class="dropdown-item" href="#">Kurta Sets</a></li>
+                                          <li><a class="dropdown-item" href="#">Suits & Dress Material</a></li>
+                                          <li><a class="dropdown-item" href="#">Other Ethnic</a></li>
                                           </ul>
                                             </div>
+                       
 
                       <div class="dropdown">
                                 <button
@@ -100,9 +114,13 @@
                                           Mens
                                             </button>
                                           <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                          <li><a class="dropdown-item" href="#">Action</a></li>
-                                          <li><a class="dropdown-item" href="#">Another action</a></li>
-                                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                          <li><a class="dropdown-item" href="#" id="title1">Top Wear</a></li>
+                                          <li><a class="dropdown-item" href="#">Bottom Wear</a></li>
+                                          <li><a class="dropdown-item" href="#">Men Accessories</a></li>
+                                          <li><a class="dropdown-item" href="#">Men Footwear</a></li>
+                                          <li><a class="dropdown-item" href="#">Ethnic Wear</a></li>
+                                          <li><a class="dropdown-item" href="#">Inner & Sleep Wear</a></li>
+                                         
                                           </ul>
                                             </div>
 
@@ -117,9 +135,10 @@
                                           Kids
                                             </button>
                                           <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                          <li><a class="dropdown-item" href="#">Action</a></li>
-                                          <li><a class="dropdown-item" href="#">Another action</a></li>
-                                          <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                          <li><a class="dropdown-item" href="#"  id="title1">Boys & Girls 2+ Years</a></li>
+                                          <li><a class="dropdown-item" href="#">Infant 0-2 Years</a></li>
+                                          <li><a class="dropdown-item" href="#">Toys & Accessories</a></li>
+                                              <li><a class="dropdown-item" href="#">All Baby Care</a></li>
                                           </ul>
                                             </div>
                       <div class="dropdown">
@@ -133,8 +152,8 @@
                                           Home & Kitchen
                                             </button>
                                           <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                          <li><a class="dropdown-item" href="#">Action</a></li>
-                                          <li><a class="dropdown-item" href="#">Another action</a></li>
+                                          <li><a class="dropdown-item" href="#">Home Furnishing</a></li>
+                                          <li><a class="dropdown-item" href="#">Home Decor</a></li>
                                           <li><a class="dropdown-item" href="#">Something else here</a></li>
                                           </ul>
                                             </div>
@@ -149,8 +168,8 @@
                                        Beauty & Health
                                             </button>
                                           <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                          <li><a class="dropdown-item" href="#">Action</a></li>
-                                          <li><a class="dropdown-item" href="#">Another action</a></li>
+                                          <li><a class="dropdown-item" href="#">Make up</a></li>
+                                          <li><a class="dropdown-item" href="#">Wellness</a></li>
                                           <li><a class="dropdown-item" href="#">Something else here</a></li>
                                           </ul>
                                             </div>

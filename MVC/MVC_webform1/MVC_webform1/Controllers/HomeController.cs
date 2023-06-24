@@ -18,6 +18,23 @@ namespace MVC_webform1.Controllers
             return View();
         }
 
+        public IActionResult ()
+        {
+            return View();
+        }
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult Privacy()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

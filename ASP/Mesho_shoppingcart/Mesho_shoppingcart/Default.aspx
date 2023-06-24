@@ -26,6 +26,8 @@
               padding-left: 1em;
            
             }
+           
+
            /* MainContent_DataList1_Image1_0{
                 height:200px;width:160px;
             }*/

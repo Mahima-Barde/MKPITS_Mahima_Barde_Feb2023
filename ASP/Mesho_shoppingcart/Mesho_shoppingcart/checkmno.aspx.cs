@@ -37,6 +37,7 @@ namespace Mesho_shoppingcart
             int prodprice = 0;
             int qty = 0;
             string sessionid = null;
+            string prodimage = null;
             if (result == "123456")
             {
                 query = "select * from productitem where prodid=@prodid";
@@ -50,21 +51,24 @@ namespace Mesho_shoppingcart
                     prodprice = Convert.ToInt32(dr["prodprice"].ToString());
                     qty = 1;
                     sessionid = Session.SessionID;
+                    prodimage = dr["prodimage"].ToString();
                 }
                 con.Close();
                 Response.Write("prodname " + prodname + "<br>");
                 Response.Write("prodprice " + prodprice + "<br>");
                 Response.Write("qty" + qty + "<br>");
                 Response.Write("sessionid " + sessionid + "<br>");
+
                 //save the product data into carttable
 
                 //insertion code into cart table
-                query = "Insert into Cart values(prodname=@prodname,prodprice=@prodprice,Quantity=@Quantity,Sessionid=@Sessionid)";
+                query = "Insert into Cart values(@prodname,@prodprice,@Quantity,@Sessionid,@prodimage)";
                 cmd = new SqlCommand(query, con);
                cmd.Parameters.AddWithValue("@prodname", prodname);
                cmd.Parameters.AddWithValue("@prodprice", prodprice);
                 cmd.Parameters.AddWithValue("@Quantity", qty);
                cmd.Parameters.AddWithValue("@Sessionid", sessionid);
+                cmd.Parameters.AddWithValue("@prodimage", prodimage);
                 con.Open();
                cmd.ExecuteNonQuery();
                 con.Close();

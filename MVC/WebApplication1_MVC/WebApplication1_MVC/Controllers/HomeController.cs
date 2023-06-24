@@ -18,7 +18,23 @@ namespace WebApplication1_MVC.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult Store()
+        {
+            return View();
+        }
+        public IActionResult Features()
+        {
+            return View();
+        }
+        public IActionResult Blog()
+        {
+            return View();
+        }
+        public IActionResult ContactUs()
         {
             return View();
         }
