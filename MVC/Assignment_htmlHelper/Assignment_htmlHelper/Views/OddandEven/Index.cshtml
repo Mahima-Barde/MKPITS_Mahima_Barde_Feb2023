@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Assignment_htmlHelper.Models.EvenOdd
+
+@using(Html.BeginForm("Index","OddandEven",FormMethod.Post))
+{
+    <h1>Cheak Number is Even or Odd</h1>
+<p>Enter the number :</p>
+@Html.TextBoxFor(m => m.Number,new{@Value="Enter number",style="color:blue;"})
+<br/><br/>
+<input type="submit" value="Check">
+}
+<p>Result:@ViewBag.result</p>
+

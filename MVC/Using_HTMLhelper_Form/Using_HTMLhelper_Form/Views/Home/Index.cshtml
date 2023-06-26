@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@model Using_HTMLhelper_Form.Models.UserModel
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <b>Username : </b>@Html.TextBoxFor(m=>m.Name,new{@value="Enter name",@class="red"})
+}
+<input type="text" id="Name" name="Name" value="Enter name" ></input>
+
+

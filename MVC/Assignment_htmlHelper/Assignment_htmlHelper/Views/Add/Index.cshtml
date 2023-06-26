@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Assignment_htmlHelper.Models.Addition
+@using(Html.BeginForm("Index","Add",FormMethod.Post))
+{
+    <h1>Addition of two number</h1>
+    
+    <h2>Number 1:</h2>
+    @Html.TextBoxFor(m=>m.number1,new{@Value="number1",@class="pink"})<br/>
+
+    <h2>Number 2</h2>
+    @Html.TextBoxFor(m=>m.number2,new{@Value="number2",@class="blue"})<br/>
+
+<input type="submit" value="result" />
+<hr/>
+}
+      Results: @ViewBag.result
