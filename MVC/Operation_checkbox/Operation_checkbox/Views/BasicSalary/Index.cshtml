@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Operation_checkbox.Models.SalaryModel
+@using(Html.BeginForm("Index","BasicSalary",FormMethod.Post))
+{
+    <h1>Employee Information</h1><br/>
+    <span>Employee Name :</span>
+    @Html.TextBoxFor(m=>m.Name,new{@Value="Enter the name"})
+
+    <span>Employee basic salary</span>
+    @Html.TextBoxFor(m=>m.Basicsalary,new{@Value="Enter the salary"})
+    <br />
+
+    <span>HRA :</span>
+    @Html.CheckBoxFor(m=>m.HRA,true)
+    <br />
+   
+    <span>DA :</span>
+    @Html.CheckBoxFor(m=>m.DA,true)
+    <br />
+
+    <span>TA :</span>
+    @Html.CheckBoxFor(m=>m.TA,true)
+    <br />
+
+    <input type="submit" value="SHOW">
+    <br />
+
+}
+<hr/>
+******EMployee Information******
+
+Employee Name:@ViewBag.Name
+<br />
+Employee Basic Salary:@ViewBag.Basicsalary
+<br />
+HRA Salary:@ViewBag.HRA
+<br />
+DA Salary:@ViewBag.DA
+<br />
+TA Salary:@ViewBag.TA
+<br />
+Total Salary:@ViewBag.Totalsalary
+
+

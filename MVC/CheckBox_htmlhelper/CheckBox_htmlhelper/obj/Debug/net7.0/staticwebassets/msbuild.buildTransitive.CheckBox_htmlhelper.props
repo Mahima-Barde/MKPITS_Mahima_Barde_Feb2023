@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CheckBox_htmlhelper.props" />
+</Project>

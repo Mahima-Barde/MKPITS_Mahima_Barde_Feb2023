@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Operation_checkbox.Models.Operation
+
+@using(Html.BeginForm("Index","selectOperation",FormMethod.Post))
+
+{
+    <span>number1</span>
+    @Html.TextBoxFor(m=>m.number1,new{@value="Enter the value"})
+    <br />
+
+    <span>number2</span>
+    @Html.TextBoxFor(m=>m.number2,new{@value="Enter the value"})
+
+    <span>Addition :</span>
+     @Html.CheckBoxFor(m=>m.add,true)
+
+    <span> | Subtraction :</span>
+    @Html.CheckBoxFor(m=>m.sub,true)
+
+    <span> | Multiplication :</span>
+    @Html.CheckBoxFor(m=>m.mul,true)
+
+    <input type="submit" value="submit" />
+    <br />
+}
+Addition is:@ViewBag.add<br/>
+Subtraction is:@ViewBag.sub
+<br />
+Multiplication is:@ViewBag.mul

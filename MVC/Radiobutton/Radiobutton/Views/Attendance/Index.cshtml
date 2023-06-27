@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Radiobutton.Models.Attendance
+@using(Html.BeginForm("Index","Attendance",FormMethod.Post))
+{
+    <h1>Attendance</h1><br/>
+    <p>Shreya</p>
+    @Html.CheckBoxFor(m=>m.stud1,true)<br/>
+
+    <p>Mahima</p>
+    @Html.CheckBoxFor(m=>m.stud2,true)
+    <br />
+
+    <p>Rupali</p>
+    @Html.CheckBoxFor(m=>m.stud3,true)
+    <br />
+
+   @* @*<p>Akansha</p>
+    @Html.CheckBoxFor(m=>m.stud5,true)
+    <br />
+
+    <p>Jaiyash</p>
+    @Html.CheckBoxFor(m=>m.stud6,true,new{@Value="shreya"})
+    <br />*@*@
+
+    <input type="submit" value="Display">
+    <br />
+}
+<hr/>
+*****Attendance*****
+Present:@ViewBag.present
+<br />
+Absent:@ViewBag.absent
+<br />
+Percentage:@ViewBag.Total
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Radiobutton.Models.deposite
+
+@using(Html.BeginForm("Index","Depositewithdrawal",FormMethod.Post))
+{
+    <span>Customer Name:</span>
+    @Html.TextBoxFor(m=>m.name,new{@Value="Enter the name"})<br/>
+
+    <span>Balance:</span>
+    @Html.TextBoxFor(m=>m.amount,new{@Value="Enter the amount"})
+    <br />
+    <span>Deposite:</span>
+    @Html.RadioButtonFor(m=>m.transaction,"deposite")
+    <span> | Withdrawal:</span>
+    @Html.RadioButtonFor(m=>m.transaction,"withdrawal")
+    <br />
+
+    <input type="submit" value="submit">
+    <br />
+}
+<hr/>
+Balance is:@ViewBag.amount

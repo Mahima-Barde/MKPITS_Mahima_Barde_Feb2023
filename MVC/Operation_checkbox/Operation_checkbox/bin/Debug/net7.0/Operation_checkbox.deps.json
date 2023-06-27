@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Operation_checkbox/1.0.0": {
+        "runtime": {
+          "Operation_checkbox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operation_checkbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

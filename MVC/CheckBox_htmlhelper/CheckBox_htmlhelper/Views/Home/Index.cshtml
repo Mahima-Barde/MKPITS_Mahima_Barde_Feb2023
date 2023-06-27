@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model CheckBox_htmlhelper.Models.userModel
+
+@using(Html.BeginForm("Index","Home",FormMethod.Post))
+{
+    <span>Tea :</span>
+    @Html.CheckBoxFor(m=>m.Tea,true)
+
+    <span> | Breakfast :</span>
+    @Html.CheckBoxFor(m=>m.Breakfast,true)
+
+    <span> | Laundry :</span>
+    @Html.CheckBoxFor(m=>m.Laundry,true)<br/>
+
+    <input type="submit" name="OK">
+}
+Tea:@ViewBag.Tea<br/>
+Breakfast:@ViewBag.Breakfast<br/>
+Laundry:@ViewBag.Laundry
