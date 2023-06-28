@@ -30,8 +30,14 @@ namespace Radiobutton.Controllers
                 total = r.Number1 * r.Number2;
                 ViewBag.mul = total;
             }
-            return View();
+            TempData["Number1"] = r.Number1;
+            return Redirect("/Radiobutton/Redirect");
+           //return View();
 
+        }
+        public IActionResult Redirect()
+        {
+            return View();
         }
     }
 }

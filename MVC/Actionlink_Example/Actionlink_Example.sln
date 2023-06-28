@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actionlink_Example", "Actionlink_Example\Actionlink_Example.csproj", "{082E9B63-202C-4239-81C3-68E9DE7EADCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{082E9B63-202C-4239-81C3-68E9DE7EADCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082E9B63-202C-4239-81C3-68E9DE7EADCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082E9B63-202C-4239-81C3-68E9DE7EADCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082E9B63-202C-4239-81C3-68E9DE7EADCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52867A3C-A9CF-4F8E-9B08-CB3F6A63B619}
+	EndGlobalSection
+EndGlobal

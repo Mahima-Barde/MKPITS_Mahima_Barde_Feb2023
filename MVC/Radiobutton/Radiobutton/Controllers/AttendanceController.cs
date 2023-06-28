@@ -6,19 +6,21 @@ namespace Radiobutton.Controllers
 {
     public class AttendanceController : Controller
     {
+        [HttpPost]
         public IActionResult Index()
         {
             return View();
         }
+       
         static string present;
         static string absent;
         public IActionResult Index(Attendance a)
         {
-            
+
             string s1, s2, s3, s4, s5, s6;
             if (a.stud1 = true)
             {
-                present= "Shreya,";
+                present = "Shreya,";
             }
             else
             {
@@ -44,5 +46,5 @@ namespace Radiobutton.Controllers
             ViewBag.Absent = absent;
             return View();
         }
-   
+    }
 }

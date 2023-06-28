@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Actionlink_Example.Models.UserModel
+
+@using(Html.BeginForm("Index","Home",FormMethod.Post))
+{
+    <span>Enter username:</span>
+    @Html.TextBoxFor(m=>m.name,new{@Value="Enter the name"})
+
+    <input type="submit" value="OK"/>
+}
+<hr/>
+<strong>Strongly Type Value:</strong>
+@Html.DisplayFor(m=>m.name)
+

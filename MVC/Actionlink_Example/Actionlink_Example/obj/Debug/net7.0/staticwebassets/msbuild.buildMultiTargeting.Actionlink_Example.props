@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Actionlink_Example.props" />
+</Project>
