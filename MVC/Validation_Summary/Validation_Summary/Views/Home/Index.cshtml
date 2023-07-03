@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@model Validation_Summary.Models.Usermodel
+@using(Html.BeginForm("Index","Home",FormMethod.Post))
+{
+    <p>Username :</p>
+    @Html.EditorFor(m=>m.Username)<br/>
+
+    <p>Mobile No :</p>
+    @Html.EditorFor(m=>m.mobileno)
+    <br />
+    <input type="submit" value="oK"/>
+
+    @Html.ValidationSummary(false,"")
+
+
+}

@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Assignmen_Validation.Models.Greater_number
+
+@using(Html.BeginForm("Index","Home",FormMethod.Post))
+{
+    <p>Enter the number1</p>
+    @Html.EditorFor(m=>m.number1)<br/><br/>
+
+    <p>Enter the number2</p>
+    @Html.EditorFor(m=>m.number2)
+    <br />
+    <br />
+    <input type="submit" value="check"/>
+    @Html.ValidationSummary(false,"")
+}
+@ViewBag.Result;
