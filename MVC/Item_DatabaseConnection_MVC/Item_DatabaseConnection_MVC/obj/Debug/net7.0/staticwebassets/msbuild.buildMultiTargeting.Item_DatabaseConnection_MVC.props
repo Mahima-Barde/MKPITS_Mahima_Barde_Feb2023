@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Item_DatabaseConnection_MVC.props" />
+</Project>
