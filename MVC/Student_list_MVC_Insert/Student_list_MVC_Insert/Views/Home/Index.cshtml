@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Student_list_MVC_Insert.Models.StudentModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.roll_no)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.subject)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Marks)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.roll_no)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.subject)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Marks)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {  roll_no=item.roll_no }) |
+            @Html.ActionLink("Details", "Details", new { roll_no=item.roll_no  }) |
+            @Html.ActionLink("Delete", "Delete", new { roll_no=item.roll_no  })
+        </td>
+    </tr>
+}
+
+</table>

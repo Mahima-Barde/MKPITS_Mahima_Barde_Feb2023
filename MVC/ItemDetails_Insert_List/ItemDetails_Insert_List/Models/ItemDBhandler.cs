@@ -64,5 +64,45 @@ namespace ItemDetails_Insert_List.Models
             }
         }
 
+        // 3. ********** Update Item Details **********
+        public bool updatevalue(ItemModel ilist)
+        {
+            connection();
+            string query = "update Item_List set Name = '" + ilist.Name + "',Category = '" + ilist.Category + "',Price = '" + ilist.Price+ "'where ID='" + ilist.ID + "'";
+            SqlCommand cmd = new SqlCommand(query, con);
+            con.Open();
+            int j= cmd.ExecuteNonQuery();
+            con.Close();
+            if (j >= 1)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+       // 2.************ Delete item *****************
+
+        public bool deletevalue(ItemModel ilist)
+        {
+            connection();
+            string query = "delete Item_List where ID = '" + ilist.ID +"'";
+            SqlCommand cmd = new SqlCommand(query, con);
+            con.Open();
+            int j= cmd.ExecuteNonQuery();
+            con.Close();
+            if (j >= 1)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+       
+
     }
 }

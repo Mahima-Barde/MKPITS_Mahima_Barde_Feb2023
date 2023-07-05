@@ -43,7 +43,61 @@ namespace ItemDetails_Insert_List.Controllers
             return View();
         }
 
-            public ActionResult About()
+        // 1****************Edit****************
+
+        [HttpGet]
+        public ActionResult Edit(int id)
+        {
+            ItemDBhandler dBhandler = new ItemDBhandler();
+            return View(dBhandler.GetItems().Find(ItemModel => ItemModel.ID == id));
+        }
+        [HttpPost]
+        public ActionResult Edit(int id, ItemModel ilist)
+        {
+            try {
+                ItemDBhandler dBhandler = new ItemDBhandler();
+                dBhandler.updatevalue(ilist);
+                return RedirectToAction("Index");
+            }
+            catch
+            {
+                return View();
+            }
+         }
+
+        //3****************Delete**************
+
+        [HttpGet]
+        public ActionResult Delete(int id)
+        {
+            ItemDBhandler handler=new ItemDBhandler();
+          
+            return View(handler.GetItems().Find(ItemModel => ItemModel.ID == id));
+
+        }
+        [HttpPost]
+        public ActionResult Delete(int id, ItemModel ilist)
+        {
+            try
+            {
+                ItemDBhandler dBhandler = new ItemDBhandler();
+                dBhandler.deletevalue(ilist);
+                return RedirectToAction("Index");
+            }
+            catch
+            {
+                return View();
+            }
+            }
+        //4.**************Details*****************
+        
+        [HttpGet]
+        public ActionResult Details(int id,ItemModel ilist)
+        {
+            ItemDBhandler dBhandler = new ItemDBhandler();
+            return View(dBhandler.GetItems().Find(ItemModel => ItemModel.ID == id));
+        }
+        public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
 
