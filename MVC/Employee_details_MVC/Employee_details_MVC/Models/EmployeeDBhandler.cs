@@ -21,7 +21,7 @@ namespace Employee_details_MVC.Models
         {
             connection();
             List<EmployeeModel> info= new List<EmployeeModel>();
-            string query = "select * from Employeeinfo";
+            string query = "select * from Employe_d";
             SqlCommand cmd=new SqlCommand(query, con);
             SqlDataAdapter da= new SqlDataAdapter(cmd);
             DataTable dt=new DataTable();
@@ -48,11 +48,12 @@ namespace Employee_details_MVC.Models
         public bool insertEmployee(EmployeeModel em)
         {
             connection();
-            string query = "insert into Employeeinfo values'" + em.Id + "','" + em.Name + "','" + em.price + "','" + em.age + "','" + em.Department + "'";
+            string query = "insert into Employe_d values('" + em.Name + "','" + em.price + "','" + em.age + "','" + em.Department + "')";
             SqlCommand command = new SqlCommand(query, con);
             con.Open();
             int i = command.ExecuteNonQuery();
             con.Close();
+            
             if(i>=1)
             {
                 return true;

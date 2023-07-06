@@ -9,8 +9,8 @@ namespace Employee_details_MVC.Controllers
 {
     public class HomeController : Controller
     {
-      
-        public ActionResult index(int id) 
+      //Get information
+        public ActionResult index() 
         {
             EmployeeDBhandler DBhandler = new EmployeeDBhandler();
             ModelState.Clear();
