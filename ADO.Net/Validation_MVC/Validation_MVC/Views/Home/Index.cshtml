@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Validation_MVC.Models.StudentModel
+@using (Html.BeginForm("studentdetail", "Home", FormMethod.Post))
+{
+    
+    @Html.LabelFor(m=>m.name)
+    @Html.TextBoxFor(m=>m.name)
+    @Html.ValidationMessageFor(m=>m.name)
+    <br />
+
+   
+    @Html.LabelFor(m=>m.age)
+    @Html.TextBoxFor(m=>m.age)
+    @Html.ValidationMessageFor(m=>m.age)
+    <br />
+
+    <input type="submit" value="Submit" />
+}
+<h2>Student Details</h2>
+Name=@ViewBag.name
+<br />
+Age=@ViewBag.age
+
+
+
+
+
+
+
+

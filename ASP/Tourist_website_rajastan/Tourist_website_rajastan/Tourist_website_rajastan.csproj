@@ -164,6 +164,7 @@
     <Content Include="assets\images\__screenshots\register.png" />
     <Content Include="assets\js\script.js" />
     <Content Include="Blogpage.aspx" />
+    <Content Include="BookingForm.aspx" />
     <Content Include="Contact2aspx.aspx" />
     <Content Include="ContactAboutaspx.aspx" />
     <Content Include="Destination.aspx" />
@@ -194,6 +195,13 @@
     </Compile>
     <Compile Include="Blogpage.aspx.designer.cs">
       <DependentUpon>Blogpage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BookingForm.aspx.cs">
+      <DependentUpon>BookingForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookingForm.aspx.designer.cs">
+      <DependentUpon>BookingForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contact2aspx.aspx.cs">
       <DependentUpon>Contact2aspx.aspx</DependentUpon>

@@ -35,10 +35,11 @@
 }
 
 .location-detail p{
-        color: white;
+        color: black;
     font-size: 20px;
     margin-top: 40px;
     margin-bottom: 10px;
+    font-weight: bolder;
 }
 
 .location-img img{

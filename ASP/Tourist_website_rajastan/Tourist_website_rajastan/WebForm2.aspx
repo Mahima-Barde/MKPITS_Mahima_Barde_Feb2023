@@ -321,9 +321,8 @@
             <h2 class="h2 section-title">Explore all tour of the world with us.</h2>
 
             <p class="about-text">
-              Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or
-              randomised words
-              which don't look even slightly believable.
+              Rajasthan Is A Great Way To Immerse Yourself In The Vibrant Culture Of Rajasthan. Taking Safaris In Rajasthan, You Will Find Yourself Enjoying In Ways You Never Thought Possible. With Care And Dedication, Rajasthan Tourism Always Wanted Their Guests To Be Stress-Free. With Our Travel Agencies, Excursion, And Safari Operators Your Stay In Rajasthan Will Be A Delighted One And We Are Sure That We'll Be In Your Travel Memories. 
+              
             </p>
 
             <ul class="about-list">
@@ -338,7 +337,7 @@
                   <h3 class="h3 about-item-title">Tour guide</h3>
 
                   <p class="about-item-text">
-                    Lorem Ipsum available, but the majority have suffered alteration in some.
+                  Our mission is not just to be a travel agency which helps you book a holiday; we want to be your travel partner who would go an extra mile to help you choose an ideal destination and learn more about the place you have been dreaming to visit.
                   </p>
                 </div>
 
@@ -354,7 +353,7 @@
                   <h3 class="h3 about-item-title">Friendly price</h3>
 
                   <p class="about-item-text">
-                    Lorem Ipsum available, but the majority have suffered alteration in some.
+                    Compare, Negotiate and Choose the best Package From Us
                   </p>
                 </div>
 
@@ -370,7 +369,7 @@
                   <h3 class="h3 about-item-title">Reliable tour</h3>
 
                   <p class="about-item-text">
-                    Lorem Ipsum available, but the majority have suffered alteration in some.
+                   Travel has helped us to understand the meaning of life and it has helped us become better people. Each time we travel, we see the world with new eyes.
                   </p>
                 </div>
 
