@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnection_Insert_Jquery", "DatabaseConnection_Insert_Jquery\DatabaseConnection_Insert_Jquery.csproj", "{D62EC366-97A9-42BA-9A5D-80B8E08C4A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62EC366-97A9-42BA-9A5D-80B8E08C4A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62EC366-97A9-42BA-9A5D-80B8E08C4A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62EC366-97A9-42BA-9A5D-80B8E08C4A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62EC366-97A9-42BA-9A5D-80B8E08C4A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8560CC23-1F03-4B38-AADE-1290E92BD71F}
+	EndGlobalSection
+EndGlobal

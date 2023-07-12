@@ -19,25 +19,25 @@
 
        
 
-        <a href="./locations.html#istanbul" target="_blank"><div class="col-content">
+        <a href="./Locationdetail.aspx#istanbul" target="_blank"><div class="col-content">
             <img src="./assets/images/I2.jpg" alt="">
             <h5>Blue City Heritage</h5>
             <p>Jhodpur</p>
         </div></a>
 
-        <a href="./locations.html#paris" target="_blank"><div class="col-content">
+        <a href="./Locationdetail.aspx#paris" target="_blank"><div class="col-content">
             <img src="./assets/images/I3.jpg" alt="">
             <h5>Rampuria Haveli</h5>
             <p>Bikaner</p>
         </div></a>
 
-        <a href="./locations.html#bali" target="_blank"><div class="col-content">
+        <a href="./Locationdetail.aspx#bali" target="_blank"><div class="col-content">
             <img src="./assets/images/I4.jpg" alt="">
             <h5>Ranthombore</h5>
             <p>National Park</p>
         </div></a>
 
-        <a href="./locations.html#dubai" target="_blank"><div class="col-content">
+        <a href="./Locationdetail.aspx#dubai" target="_blank"><div class="col-content">
             <img src="./assets/images/I5.jpg" alt="">
             <h5>Gadisar lake </h5>
             <p>Jaisalmer</p>
