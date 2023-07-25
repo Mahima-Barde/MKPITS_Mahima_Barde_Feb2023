@@ -1,0 +1,59 @@
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\TMS_Project1(ASP.Net web application).dll.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\TMS_Project1(ASP.Net web application).dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\TMS_Project1(ASP.Net web application).pdb
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\csc.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\csc.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\csc.rsp
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\csi.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\csi.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\csi.rsp
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.AppContext.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Collections.Immutable.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Console.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Globalization.Calendars.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.IO.Compression.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.IO.FileSystem.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Net.Http.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Net.Sockets.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.ValueTuple.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Xml.XPath.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\vbc.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\vbc.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\vbc.rsp
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\VBCSCompiler.exe
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\roslyn\VBCSCompiler.exe.config
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\obj\Debug\TMS_Project1(ASP.Net web application).csproj.AssemblyReference.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\obj\Debug\TMS_Project1(ASP.Net web application).csproj.CoreCompileInputs.cache
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\obj\Debug\TMS_Project1(ASP.Net web application).csproj.CopyComplete
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\obj\Debug\TMS_Project1(ASP.Net web application).dll
+D:\Dotnet2023\MKPITS_Mahima_Barde_Feb2023\Projects\TMS_Project1(ASP.Net web application)\TMS_Project1(ASP.Net web application)\obj\Debug\TMS_Project1(ASP.Net web application).pdb
