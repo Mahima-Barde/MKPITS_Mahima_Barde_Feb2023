@@ -1,0 +1,7 @@
+WebForms UnobtrusiveValidationMode requires a ScriptResourceMapping for 'jquery'. Please add a ScriptResourceMapping named jquery(case-sensitive).
+Error Solution==>
+
+<appSettings>
+  <add key="ValidationSettings:UnobtrusiveValidationMode" value="None" />
+</appSettings>
+

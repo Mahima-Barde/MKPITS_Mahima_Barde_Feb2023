@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace API_Webapplication_creation.Models
+{
+    public class Employee
+    {
+        public string Name { get; set; }
+        public int Id { get; set; }
+        public DateTime JoingDate { get; set; }
+        public int Age { get; set; }
+    }
+}
